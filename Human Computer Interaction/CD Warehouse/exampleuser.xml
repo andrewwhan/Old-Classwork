@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<user>
+	<firstName>Andrew</firstName>
+	<lastName>Han</lastName>
+	<email>awhan@wpi.edu</email>
+	<password>asdf</password>
+	<wishlist>
+		<cd>
+			<genre>Rap</genre>
+			<artist>Lyl Wayne</artist>
+			<title>The Carter III</title>
+		</cd>
+	
+		<cd>
+			<genre>Jazz</genre>
+			<artist>Miles Davis</artist>
+			<title>Kind of Blue</title>
+		</cd>
+
+		<cd>
+			<genre>Alternative</genre>
+			<artist>Elverum</artist>
+			<title> Mount Eerie 'Wind's Poem'</title>
+		</cd>
+		
+		<cd>
+			<genre>Folk</genre>
+			<artist>Mumford and Sons</artist>
+			<title>Sigh No More</title>
+		</cd>
+		
+		<cd>
+			<genre>World</genre>
+			<artist>Celtic Thunder</artist>
+			<title>Its Entertainment</title>
+		</cd>
+	</wishlist>
+</user>	

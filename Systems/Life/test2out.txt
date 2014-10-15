@@ -1,0 +1,13 @@
+Final board:
+oooooooooo
+oooxxxoooo
+oooooooooo
+oxoooooxoo
+oxoooooxoo
+oxoooooxoo
+oooooooooo
+oooxxxoooo
+oooooooooo
+oooooooooo
+
+Terminated on generation 7 due to oscillation. (This board is the same as two boards ago.)

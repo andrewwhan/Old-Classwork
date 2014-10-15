@@ -1,0 +1,13 @@
+Final board:
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+ooxxoooooo
+ooxxoooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+
+Terminated on generation 6 since current board is same as previous.

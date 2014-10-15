@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<catalog>
+	
+	<cd>
+		<genre>Blues</genre>
+		<artist>Duke Robillard</artist>
+		<title>Dukes Blue</title>
+	</cd>
+
+	<cd>
+		<genre>Alternative</genre>
+		<artist>Ryan Gosling</artist>
+		<title>Dead Man's Bones</title>
+	</cd>
+	
+	<cd>
+		<genre>Jazz</genre>
+		<artist>Jamie Cullum</artist>
+		<title>The Pursuit</title>
+	</cd>
+	
+	<cd>
+		<genre>Rap</genre>
+		<artist>Lyl Wayne</artist>
+		<title>The Carter III</title>
+	</cd>
+
+	<cd>
+		<genre>Jazz</genre>
+		<artist>Miles Davis</artist>
+		<title>Kind of Blue</title>
+	</cd>
+	
+	<cd>
+		<genre>Alternative</genre>
+		<artist>Elverum</artist>
+		<title> Mount Eerie 'Wind's Poem'</title>
+	</cd>
+	
+	<cd>
+		<genre>Folk</genre>
+		<artist>Mumford and Sons</artist>
+		<title>Sigh No More</title>
+	</cd>
+	
+	<cd>
+		<genre>World</genre>
+		<artist>Celtic Thunder</artist>
+		<title>Its Entertainment</title>
+	</cd>
+	
+	<cd>
+		<genre>Children</genre>
+		<artist>Cliff Chenfeld and Craig Balsam</artist>
+		<title>Kidz Bop 17</title>
+	</cd>
+	
+	<cd>
+		<genre>Reggae</genre>
+		<artist>Bob Marley</artist>
+		<title>The Legend : Best of Bob Marley and the Wailers Bob Marley</title>
+	</cd>
+	
+	<cd>
+		<genre>Country</genre>
+		<artist>Taylor Swift</artist>
+		<title>Fearless</title>
+	</cd>	
+		
+	<cd>
+		<genre>Country</genre>
+		<artist>Luke Bryan</artist>
+		<title>Doin' My thing</title>
+	</cd>
+	
+	<cd>
+		<genre>Rap</genre>
+		<artist>Jay-Z</artist>
+		<title>The Blueprint 3</title>
+	</cd>
+	
+	<cd>
+		<genre>Country</genre>
+		<artist>Miranda Lambert</artist>
+		<title>Revolution</title>
+	</cd>
+
+	<cd>
+		<genre>Rock</genre>
+		<artist>Foo Fighters</artist>
+		<title>The Colour and the Shape</title>
+	</cd>
+
+	<cd>
+		<genre>Rock</genre>
+		<artist>Foo Fighters</artist>
+		<title>There is Nothing Left to Lose</title>
+	</cd>
+
+</catalog>

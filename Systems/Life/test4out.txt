@@ -1,0 +1,13 @@
+Final board:
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+oooooooooo
+
+Terminated on generation 4 due to no living organisms.

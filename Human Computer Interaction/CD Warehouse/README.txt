@@ -1,0 +1,1 @@
+The program can be run by building the project in Eclipse, then running the CatalogMain class as a Java Application.
