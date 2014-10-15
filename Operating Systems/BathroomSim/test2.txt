@@ -1,0 +1,65 @@
+Thread number: 3042396992 
+Gender: Female 
+Number of loops: 161 
+Minimum time spent in queue: 1 
+Average time spent in queue: 2589 
+Maximum time spent in queue: 58263 
+Thread number: 3008826176 
+Gender: Female 
+Number of loops: 508 
+Minimum time spent in queue: 1 
+Average time spent in queue: 1500 
+Maximum time spent in queue: 58269 
+Thread number: 3017218880 
+Gender: Male 
+Number of loops: 326 
+Minimum time spent in queue: 1 
+Average time spent in queue: 4872 
+Maximum time spent in queue: 82600 
+Thread number: 3050789696 
+Gender: Female 
+Number of loops: 1457 
+Minimum time spent in queue: 1 
+Average time spent in queue: 1405 
+Maximum time spent in queue: 58232 
+Thread number: 3034004288 
+Gender: Female 
+Number of loops: 837 
+Minimum time spent in queue: 2 
+Average time spent in queue: 2532 
+Maximum time spent in queue: 55729 
+Thread number: 3075967808 
+Gender: Female 
+Number of loops: 998 
+Minimum time spent in queue: 1 
+Average time spent in queue: 2360 
+Maximum time spent in queue: 55736 
+Thread number: 3059182400 
+Gender: Female 
+Number of loops: 1231 
+Minimum time spent in queue: 1 
+Average time spent in queue: 2351 
+Maximum time spent in queue: 57917 
+Thread number: 3067575104 
+Gender: Male 
+Number of loops: 1419 
+Minimum time spent in queue: 1 
+Average time spent in queue: 3034 
+Maximum time spent in queue: 82527 
+Thread number: 3025611584 
+Gender: Male 
+Number of loops: 2348 
+Minimum time spent in queue: 1 
+Average time spent in queue: 1702 
+Maximum time spent in queue: 82552 
+Thread number: 3000433472 
+Gender: Female 
+Number of loops: 3609 
+Minimum time spent in queue: 1 
+Average time spent in queue: 689 
+Maximum time spent in queue: 69829 
+Bathroom usage: 12894 
+Total time bathroom was vacant: 8559779 
+Total time bathroom was occupied: 38295514 
+Average time spent in queue: 4833 
+Average occupants in bathroom: 0 

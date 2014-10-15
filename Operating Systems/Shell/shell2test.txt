@@ -1,0 +1,15 @@
+Andrew Han
+
+ls
+cd hi
+ls
+cp a a_backup&
+cp a a_backup2&
+ls&
+jobs
+exit
+zip zipped a b c
+ls
+cd ..
+exit
+

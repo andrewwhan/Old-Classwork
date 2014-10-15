@@ -1,0 +1,110 @@
+Andrew Han
+
+(^_^)ls
+
+doit	       hi	 shell2.c	  shelltestout.txt   test.txt~
+doit.c	       Makefile  shell2test.txt   shelltestout.txt~
+doittest.txt   shell	 shell2test.txt~  shelltest.txt
+doittest.txt~  shell2	 shell.c	  shelltest.txt~
+Time elapsed: 5 
+CPU User Time: 0 
+CPU System Time: 0 
+Involuntary Preemptions: 22 
+Voluntary Preemptions: 1 
+Page faults: 0 
+Page faults resolved from internal caches: 270 
+
+
+(^_^)cd hi
+
+(^_^)ls
+
+a  a_backup  a_backup2	b  c  zipped.zip
+Time elapsed: 4 
+CPU User Time: 0 
+CPU System Time: 0 
+Involuntary Preemptions: 5 
+Voluntary Preemptions: 1 
+Page faults: 0 
+Page faults resolved from internal caches: 267 
+
+
+(^_^)cp a a_backup&
+
+[1] 17828 
+
+(^_^)cp a a_backup2&
+
+[2] 17829 
+
+(^_^)ls&
+
+[3] 17830 
+
+(^_^)jobs
+
+[1] 17828 cp 
+[2] 17829 cp 
+[3] 17830 ls 
+(^_^)exit
+
+Allow all other processes to terminate first. 
+(^_^)zip zipped a b c
+
+a  a_backup  a_backup2	b  c  zipped.zip
+updating: a (deflated 100%)
+updating: b (stored 0%)
+updating: c (stored 0%)
+Time elapsed: 46 
+CPU User Time: 8 
+CPU System Time: 0 
+Involuntary Preemptions: 13 
+Voluntary Preemptions: 2 
+Page faults: 0 
+Page faults resolved from internal caches: 306 
+
+
+(^_^)ls
+
+[1] 17828 cp completed. 
+Time elapsed: 51 
+CPU User Time: 4 
+CPU System Time: 0 
+Involuntary Preemptions: 2 
+Voluntary Preemptions: 1 
+Page faults: 0 
+Page faults resolved from internal caches: 269 
+
+[1] 17829 cp completed. 
+Time elapsed: 51 
+CPU User Time: 0 
+CPU System Time: 4 
+Involuntary Preemptions: 3 
+Voluntary Preemptions: 1 
+Page faults: 0 
+Page faults resolved from internal caches: 271 
+
+[1] 17830 ls completed. 
+Time elapsed: 52 
+CPU User Time: 0 
+CPU System Time: 0 
+Involuntary Preemptions: 4 
+Voluntary Preemptions: 1 
+Page faults: 0 
+Page faults resolved from internal caches: 270 
+
+a  a_backup  a_backup2	b  c  zipped.zip
+Time elapsed: 16 
+CPU User Time: 0 
+CPU System Time: 4 
+Involuntary Preemptions: 6 
+Voluntary Preemptions: 1 
+Page faults: 0 
+Page faults resolved from internal caches: 271 
+
+
+(^_^)cd ..
+
+(^_^)exit
+
+

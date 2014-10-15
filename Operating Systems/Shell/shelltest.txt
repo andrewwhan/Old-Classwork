@@ -1,0 +1,11 @@
+Andrew Han
+
+ls
+cd hi
+ls
+cp a a_backup
+ls
+cd ..
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b 
+exit

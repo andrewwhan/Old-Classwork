@@ -1,0 +1,1644 @@
+[ 1005.212289] Interceptor: Found syscall table at address: 0xC1583020
+[ 1005.212306] Loaded interceptor!
+[ 1007.470316] User 1001 is closing file descriptor: 8 
+[ 1007.470781] User 1001 is closing file descriptor: 7 
+[ 1007.471492] User 1001 is closing file descriptor: 8 
+[ 1007.472243] User 1001 is closing file descriptor: 8 
+[ 1007.472649] User 1001 is closing file descriptor: 8 
+[ 1007.474767] User 1001 is closing file descriptor: 8 
+[ 1007.475623] User 1001 is closing file descriptor: 7 
+[ 1007.475977] User 1001 is closing file descriptor: 7 
+[ 1007.476307] User 1001 is closing file descriptor: 9 
+[ 1007.477352] User 1001 is closing file descriptor: 30 
+[ 1007.477370] User 1001 is closing file descriptor: 34 
+[ 1007.743052] User 1001 is closing file descriptor: 3 
+[ 1007.743059] User 1001 is closing file descriptor: 4 
+[ 1007.743359] User 1001 is closing file descriptor: 4 
+[ 1007.743378] User 1001 is closing file descriptor: 3 
+[ 1007.744728] User 1001 is opening file: /etc/ld.so.cache 
+[ 1007.744744] User 1001 is closing file descriptor: 3 
+[ 1007.744828] User 1001 is opening file: /usr/lib/libgedit-private.so.0 
+[ 1007.744916] User 1001 is closing file descriptor: 3 
+[ 1007.744948] User 1001 is opening file: /usr/lib/i386-linux-gnu/libgtksourceview-3.0.so.0 
+[ 1007.745009] User 1001 is closing file descriptor: 3 
+[ 1007.745061] User 1001 is opening file: /usr/lib/libpeas-gtk-1.0.so.0 
+[ 1007.745148] User 1001 is closing file descriptor: 3 
+[ 1007.745173] User 1001 is opening file: /usr/lib/libpeas-1.0.so.0 
+[ 1007.745230] User 1001 is closing file descriptor: 3 
+[ 1007.745262] User 1001 is opening file: /usr/lib/liblaunchpad-integration-3.0.so.1 
+[ 1007.745323] User 1001 is closing file descriptor: 3 
+[ 1007.745342] User 1001 is opening file: /usr/lib/i386-linux-gnu/libgtk-3.so.0 
+[ 1007.745417] User 1001 is closing file descriptor: 3 
+[ 1007.745445] User 1001 is opening file: /usr/lib/i386-linux-gnu/libgdk-3.so.0 
+[ 1007.745504] User 1001 is closing file descriptor: 3 
+[ 1007.745563] User 1001 is opening file: /usr/lib/i386-linux-gnu/libatk-1.0.so.0 
+[ 1007.745649] User 1001 is closing file descriptor: 3 
+[ 1007.745675] User 1001 is opening file: /usr/lib/i386-linux-gnu/libgdk_pixbuf-2.0.so.0 
+[ 1007.745752] User 1001 is closing file descriptor: 3 
+[ 1007.745779] User 1001 is opening file: /usr/lib/i386-linux-gnu/libpango-1.0.so.0 
+[ 1007.745844] User 1001 is closing file descriptor: 3 
+[ 1007.745873] User 1001 is opening file: /usr/lib/i386-linux-gnu/libcairo.so.2 
+[ 1007.745941] User 1001 is closing file descriptor: 3 
+[ 1007.745967] User 1001 is opening file: /usr/lib/i386-linux-gnu/libX11.so.6 
+[ 1007.746034] User 1001 is closing file descriptor: 3 
+[ 1007.746064] User 1001 is opening file: /usr/lib/i386-linux-gnu/libgio-2.0.so.0 
+[ 1007.746145] User 1001 is closing file descriptor: 3 
+[ 1007.746172] User 1001 is opening file: /usr/lib/i386-linux-gnu/libSM.so.6 
+[ 1007.746230] User 1001 is closing file descriptor: 3 
+[ 1007.746257] User 1001 is opening file: /usr/lib/i386-linux-gnu/libICE.so.6 
+[ 1007.746325] User 1001 is closing file descriptor: 3 
+[ 1007.746352] User 1001 is opening file: /usr/lib/libgirepository-1.0.so.1 
+[ 1007.746411] User 1001 is closing file descriptor: 3 
+[ 1007.746438] User 1001 is opening file: /usr/lib/i386-linux-gnu/libgobject-2.0.so.0 
+[ 1007.746497] User 1001 is closing file descriptor: 3 
+[ 1007.746528] User 1001 is opening file: /lib/i386-linux-gnu/libglib-2.0.so.0 
+[ 1007.746610] User 1001 is closing file descriptor: 3 
+[ 1007.746636] User 1001 is opening file: /lib/i386-linux-gnu/libm.so.6 
+[ 1007.746695] User 1001 is closing file descriptor: 3 
+[ 1007.746740] User 1001 is opening file: /lib/i386-linux-gnu/libpthread.so.0 
+[ 1007.746829] User 1001 is closing file descriptor: 3 
+[ 1007.746856] User 1001 is opening file: /lib/i386-linux-gnu/libc.so.6 
+[ 1007.746929] User 1001 is closing file descriptor: 3 
+[ 1007.746981] User 1001 is opening file: /usr/lib/i386-linux-gnu/libpangocairo-1.0.so.0 
+[ 1007.747040] User 1001 is closing file descriptor: 3 
+[ 1007.747073] User 1001 is opening file: /usr/lib/i386-linux-gnu/libxml2.so.2 
+[ 1007.747156] User 1001 is closing file descriptor: 3 
+[ 1007.747202] User 1001 is opening file: /usr/lib/i386-linux-gnu/libgmodule-2.0.so.0 
+[ 1007.747261] User 1001 is closing file descriptor: 3 
+[ 1007.747295] User 1001 is opening file: /usr/lib/i386-linux-gnu/libXi.so.6 
+[ 1007.747354] User 1001 is closing file descriptor: 3 
+[ 1007.747383] User 1001 is opening file: /usr/lib/i386-linux-gnu/libXfixes.so.3 
+[ 1007.747442] User 1001 is closing file descriptor: 3 
+[ 1007.747465] User 1001 is opening file: /usr/lib/i386-linux-gnu/libcairo-gobject.so.2 
+[ 1007.747525] User 1001 is closing file descriptor: 3 
+[ 1007.747549] User 1001 is opening file: /usr/lib/i386-linux-gnu/libpangoft2-1.0.so.0 
+[ 1007.747622] User 1001 is closing file descriptor: 3 
+[ 1007.747659] User 1001 is opening file: /usr/lib/i386-linux-gnu/libfontconfig.so.1 
+[ 1007.747829] User 1001 is closing file descriptor: 3 
+[ 1007.747927] User 1001 is opening file: /usr/lib/i386-linux-gnu/libXext.so.6 
+[ 1007.748030] User 1001 is closing file descriptor: 3 
+[ 1007.748052] User 1001 is opening file: /usr/lib/i386-linux-gnu/libXinerama.so.1 
+[ 1007.748052] User 1001 is closing file descriptor: 3 
+[ 1007.748052] User 1001 is opening file: /usr/lib/i386-linux-gnu/libXrandr.so.2 
+[ 1007.748052] User 1001 is closing file descriptor: 3 
+[ 1007.748052] User 1001 is opening file: /usr/lib/i386-linux-gnu/libXcursor.so.1 
+[ 1007.748052] User 1001 is closing file descriptor: 3 
+[ 1007.748052] User 1001 is opening file: /usr/lib/i386-linux-gnu/libXcomposite.so.1 
+[ 1007.748052] User 1001 is closing file descriptor: 3 
+[ 1007.748052] User 1001 is opening file: /usr/lib/i386-linux-gnu/libXdamage.so.1 
+[ 1007.748052] User 1001 is closing file descriptor: 3 
+[ 1007.748052] User 1001 is opening file: /usr/lib/i386-linux-gnu/libpixman-1.so.0 
+[ 1007.748052] User 1001 is closing file descriptor: 3 
+[ 1007.748052] User 1001 is opening file: /usr/lib/i386-linux-gnu/libfreetype.so.6 
+[ 1007.752872] User 1001 is closing file descriptor: 3 
+[ 1007.752952] User 1001 is opening file: /lib/i386-linux-gnu/libpng12.so.0 
+[ 1007.753066] User 1001 is closing file descriptor: 3 
+[ 1007.753098] User 1001 is opening file: /usr/lib/i386-linux-gnu/libxcb-shm.so.0 
+[ 1007.753164] User 1001 is closing file descriptor: 3 
+[ 1007.753188] User 1001 is opening file: /usr/lib/i386-linux-gnu/libxcb-render.so.0 
+[ 1007.753251] User 1001 is closing file descriptor: 3 
+[ 1007.753281] User 1001 is opening file: /usr/lib/i386-linux-gnu/libxcb.so.1 
+[ 1007.753344] User 1001 is closing file descriptor: 3 
+[ 1007.753376] User 1001 is opening file: /usr/lib/i386-linux-gnu/libXrender.so.1 
+[ 1007.753438] User 1001 is closing file descriptor: 3 
+[ 1007.753463] User 1001 is opening file: /lib/i386-linux-gnu/libz.so.1 
+[ 1007.753541] User 1001 is closing file descriptor: 3 
+[ 1007.753572] User 1001 is opening file: /lib/i386-linux-gnu/libdl.so.2 
+[ 1007.753634] User 1001 is closing file descriptor: 3 
+[ 1007.753668] User 1001 is opening file: /lib/i386-linux-gnu/libselinux.so.1 
+[ 1007.753802] User 1001 is closing file descriptor: 3 
+[ 1007.753835] User 1001 is opening file: /lib/i386-linux-gnu/libresolv.so.2 
+[ 1007.753951] User 1001 is closing file descriptor: 3 
+[ 1007.754002] User 1001 is opening file: /lib/i386-linux-gnu/libuuid.so.1 
+[ 1007.754075] User 1001 is closing file descriptor: 3 
+[ 1007.754111] User 1001 is opening file: /usr/lib/i386-linux-gnu/libffi.so.6 
+[ 1007.754192] User 1001 is closing file descriptor: 3 
+[ 1007.754470] User 1001 is opening file: /lib/i386-linux-gnu/libpcre.so.3 
+[ 1007.754535] User 1001 is closing file descriptor: 3 
+[ 1007.754564] User 1001 is opening file: /lib/i386-linux-gnu/librt.so.1 
+[ 1007.754627] User 1001 is closing file descriptor: 3 
+[ 1007.754709] User 1001 is opening file: /lib/i386-linux-gnu/libexpat.so.1 
+[ 1007.754820] User 1001 is closing file descriptor: 3 
+[ 1007.754899] User 1001 is opening file: /usr/lib/i386-linux-gnu/libXau.so.6 
+[ 1007.755060] User 1001 is closing file descriptor: 3 
+[ 1007.755088] User 1001 is opening file: /usr/lib/i386-linux-gnu/libXdmcp.so.6 
+[ 1007.755151] User 1001 is closing file descriptor: 3 
+[ 1007.763830] User 1001 is opening file: /proc/filesystems 
+[ 1007.764000] User 1001 is closing file descriptor: 3 
+[ 1007.766172] User 1001 is opening file: /usr/lib/locale/locale-archive 
+[ 1007.766264] User 1001 is closing file descriptor: 3 
+[ 1007.766525] User 1001 is closing file descriptor: 3 
+[ 1007.766539] User 1001 is closing file descriptor: 3 
+[ 1007.766561] User 1001 is opening file: /etc/nsswitch.conf 
+[ 1007.766638] User 1001 is closing file descriptor: 3 
+[ 1007.766699] User 1001 is opening file: /etc/ld.so.cache 
+[ 1007.766715] User 1001 is closing file descriptor: 3 
+[ 1007.766804] User 1001 is opening file: /lib/i386-linux-gnu/libnss_compat.so.2 
+[ 1007.766875] User 1001 is closing file descriptor: 3 
+[ 1007.766905] User 1001 is opening file: /lib/i386-linux-gnu/libnsl.so.1 
+[ 1007.766980] User 1001 is closing file descriptor: 3 
+[ 1007.767233] User 1001 is opening file: /etc/ld.so.cache 
+[ 1007.767245] User 1001 is closing file descriptor: 3 
+[ 1007.767296] User 1001 is opening file: /lib/i386-linux-gnu/libnss_nis.so.2 
+[ 1007.767362] User 1001 is closing file descriptor: 3 
+[ 1007.767401] User 1001 is opening file: /lib/i386-linux-gnu/libnss_files.so.2 
+[ 1007.767492] User 1001 is closing file descriptor: 3 
+[ 1007.767646] User 1001 is opening file: /etc/passwd 
+[ 1007.767810] User 1001 is closing file descriptor: 3 
+[ 1007.768261] User 1001 is opening file: /usr/share/locale/locale.alias 
+[ 1007.768261] User 1001 is closing file descriptor: 3 
+[ 1007.768261] User 1001 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/gedit.mo 
+[ 1007.768261] User 1001 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/gedit.mo 
+[ 1007.768261] User 1001 is opening file: /usr/share/locale/en_US/LC_MESSAGES/gedit.mo 
+[ 1007.768261] User 1001 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/gedit.mo 
+[ 1007.768261] User 1001 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/gedit.mo 
+[ 1007.768261] User 1001 is opening file: /usr/share/locale/en/LC_MESSAGES/gedit.mo 
+[ 1007.768261] User 1001 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/gedit.mo 
+[ 1007.768261] User 1001 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/gedit.mo 
+[ 1007.768261] User 1001 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/gedit.mo 
+[ 1007.768261] User 1001 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/gedit.mo 
+[ 1007.770113] User 1001 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/gedit.mo 
+[ 1007.770123] User 1001 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/gedit.mo 
+[ 1007.770453] User 1001 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/gtk30.mo 
+[ 1007.770462] User 1001 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/gtk30.mo 
+[ 1007.770467] User 1001 is opening file: /usr/share/locale/en_US/LC_MESSAGES/gtk30.mo 
+[ 1007.770471] User 1001 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/gtk30.mo 
+[ 1007.770476] User 1001 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/gtk30.mo 
+[ 1007.770481] User 1001 is opening file: /usr/share/locale/en/LC_MESSAGES/gtk30.mo 
+[ 1007.770486] User 1001 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/gtk30.mo 
+[ 1007.770491] User 1001 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/gtk30.mo 
+[ 1007.770496] User 1001 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/gtk30.mo 
+[ 1007.770501] User 1001 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/gtk30.mo 
+[ 1007.770506] User 1001 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/gtk30.mo 
+[ 1007.770511] User 1001 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/gtk30.mo 
+[ 1007.770524] User 1001 is closing file descriptor: 3 
+[ 1007.771185] User 1001 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/libc.mo 
+[ 1007.771195] User 1001 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/libc.mo 
+[ 1007.771200] User 1001 is opening file: /usr/share/locale/en_US/LC_MESSAGES/libc.mo 
+[ 1007.771205] User 1001 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/libc.mo 
+[ 1007.771209] User 1001 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/libc.mo 
+[ 1007.771214] User 1001 is opening file: /usr/share/locale/en/LC_MESSAGES/libc.mo 
+[ 1007.771220] User 1001 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/libc.mo 
+[ 1007.771225] User 1001 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/libc.mo 
+[ 1007.771230] User 1001 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/libc.mo 
+[ 1007.771236] User 1001 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/libc.mo 
+[ 1007.771241] User 1001 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/libc.mo 
+[ 1007.771246] User 1001 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/libc.mo 
+[ 1007.771824] User 1001 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/gtk30-properties.mo 
+[ 1007.771853] User 1001 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/gtk30-properties.mo 
+[ 1007.771859] User 1001 is opening file: /usr/share/locale/en_US/LC_MESSAGES/gtk30-properties.mo 
+[ 1007.771864] User 1001 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/gtk30-properties.mo 
+[ 1007.771869] User 1001 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/gtk30-properties.mo 
+[ 1007.771873] User 1001 is opening file: /usr/share/locale/en/LC_MESSAGES/gtk30-properties.mo 
+[ 1007.771897] User 1001 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/gtk30-properties.mo 
+[ 1007.771902] User 1001 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/gtk30-properties.mo 
+[ 1007.771908] User 1001 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/gtk30-properties.mo 
+[ 1007.771915] User 1001 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/gtk30-properties.mo 
+[ 1007.771920] User 1001 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/gtk30-properties.mo 
+[ 1007.771925] User 1001 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/gtk30-properties.mo 
+[ 1007.772313] User 1001 is opening file: /usr/lib/liboverlay-scrollbar3-0.2.so.0 
+[ 1007.772408] User 1001 is closing file descriptor: 3 
+[ 1007.776282] User 1001 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/glib20.mo 
+[ 1007.776300] User 1001 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/glib20.mo 
+[ 1007.776306] User 1001 is opening file: /usr/share/locale/en_US/LC_MESSAGES/glib20.mo 
+[ 1007.776310] User 1001 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/glib20.mo 
+[ 1007.776315] User 1001 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/glib20.mo 
+[ 1007.776320] User 1001 is opening file: /usr/share/locale/en/LC_MESSAGES/glib20.mo 
+[ 1007.776327] User 1001 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/glib20.mo 
+[ 1007.776332] User 1001 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/glib20.mo 
+[ 1007.776337] User 1001 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/glib20.mo 
+[ 1007.776343] User 1001 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/glib20.mo 
+[ 1007.776348] User 1001 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/glib20.mo 
+[ 1007.776352] User 1001 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/glib20.mo 
+[ 1007.776631] User 1001 is opening file: /usr/share/glib-2.0/schemas/gschemas.compiled 
+[ 1007.776665] User 1001 is closing file descriptor: 4 
+[ 1007.776707] User 1001 is opening file: /usr/local/share/glib-2.0/schemas/gschemas.compiled 
+[ 1007.777581] User 1001 is opening file: /usr/lib/i386-linux-gnu/charset.alias 
+[ 1007.777634] User 1001 is opening file: /usr/share/gnome/glib-2.0/schemas/gschemas.compiled 
+[ 1007.777653] User 1001 is opening file: /usr/share/ubuntu-2d/glib-2.0/schemas/gschemas.compiled 
+[ 1007.778323] User 1001 is opening file: /usr/lib/i386-linux-gnu/gio/modules/giomodule.cache 
+[ 1007.778340] User 1001 is closing file descriptor: 5 
+[ 1007.778536] User 1001 is closing file descriptor: 4 
+[ 1007.781935] User 1001 is opening file: /usr/lib/i386-linux-gnu/gio/modules/libdconfsettings.so 
+[ 1007.782028] User 1001 is closing file descriptor: 4 
+[ 1007.782303] User 1001 is opening file: /etc/dconf/profile/user 
+[ 1007.782385] User 1001 is opening file: /home/andrew/.cache/dconf/user 
+[ 1007.782444] User 1001 is closing file descriptor: 4 
+[ 1007.782454] User 1001 is opening file: /home/andrew/.config/dconf/user 
+[ 1007.782466] User 1001 is closing file descriptor: 4 
+[ 1007.788017] User 1001 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/atk10.mo 
+[ 1007.788043] User 1001 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/atk10.mo 
+[ 1007.788048] User 1001 is opening file: /usr/share/locale/en_US/LC_MESSAGES/atk10.mo 
+[ 1007.788053] User 1001 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/atk10.mo 
+[ 1007.788058] User 1001 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/atk10.mo 
+[ 1007.788062] User 1001 is opening file: /usr/share/locale/en/LC_MESSAGES/atk10.mo 
+[ 1007.788069] User 1001 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/atk10.mo 
+[ 1007.788074] User 1001 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/atk10.mo 
+[ 1007.788079] User 1001 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/atk10.mo 
+[ 1007.788085] User 1001 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/atk10.mo 
+[ 1007.788091] User 1001 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/atk10.mo 
+[ 1007.788096] User 1001 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/atk10.mo 
+[ 1007.789640] User 1001 is opening file: /sys/devices/system/cpu/online 
+[ 1007.789680] User 1001 is closing file descriptor: 5 
+[ 1007.794182] User 1001 is opening file: /home/andrew/.Xauthority 
+[ 1007.794255] User 1001 is closing file descriptor: 7 
+[ 1007.802896] User 1001 is opening file: /proc/2783/cmdline 
+[ 1007.802934] User 1001 is closing file descriptor: 129 
+[ 1007.803433] User 1001 is closing file descriptor: 8 
+[ 1007.804387] User 1001 is closing file descriptor: 8 
+[ 1007.805420] User 1001 is closing file descriptor: 8 
+[ 1007.805852] User 1001 is closing file descriptor: 7 
+[ 1007.806535] User 1001 is closing file descriptor: 8 
+[ 1007.811910] User 1001 is closing file descriptor: 9 
+[ 1007.812325] User 1001 is closing file descriptor: 8 
+[ 1007.819972] User 1001 is opening file: /usr/share/locale/locale.alias 
+[ 1007.820124] User 1001 is closing file descriptor: 9 
+[ 1007.820172] User 1001 is opening file: /etc/gtk-3.0/settings.ini 
+[ 1007.820303] User 1001 is closing file descriptor: 9 
+[ 1007.821684] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/gtk.gresource 
+[ 1007.821828] User 1001 is opening file: /usr/lib/i386-linux-gnu/gio/modules/libgvfsdbus.so 
+[ 1007.821956] User 1001 is closing file descriptor: 9 
+[ 1007.821995] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/tls/i686/sse2/cmov/libgvfscommon.so 
+[ 1007.822007] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/tls/i686/sse2/libgvfscommon.so 
+[ 1007.822013] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/tls/i686/cmov/libgvfscommon.so 
+[ 1007.822019] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/tls/i686/libgvfscommon.so 
+[ 1007.822025] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/tls/sse2/cmov/libgvfscommon.so 
+[ 1007.822031] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/tls/sse2/libgvfscommon.so 
+[ 1007.822037] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/tls/cmov/libgvfscommon.so 
+[ 1007.822044] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/tls/libgvfscommon.so 
+[ 1007.822050] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/i686/sse2/cmov/libgvfscommon.so 
+[ 1007.822056] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/i686/sse2/libgvfscommon.so 
+[ 1007.822062] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/i686/cmov/libgvfscommon.so 
+[ 1007.822068] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/i686/libgvfscommon.so 
+[ 1007.822074] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/sse2/cmov/libgvfscommon.so 
+[ 1007.822080] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/sse2/libgvfscommon.so 
+[ 1007.822086] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/cmov/libgvfscommon.so 
+[ 1007.822092] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/libgvfscommon.so 
+[ 1007.822159] User 1001 is closing file descriptor: 9 
+[ 1007.822190] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/libdbus-1.so.3 
+[ 1007.822201] User 1001 is opening file: /etc/ld.so.cache 
+[ 1007.822213] User 1001 is closing file descriptor: 9 
+[ 1007.822275] User 1001 is opening file: /lib/i386-linux-gnu/libdbus-1.so.3 
+[ 1007.822346] User 1001 is closing file descriptor: 9 
+[ 1007.822382] User 1001 is opening file: /usr/lib/i386-linux-gnu/gvfs/libudev.so.0 
+[ 1007.822416] User 1001 is opening file: /lib/i386-linux-gnu/libudev.so.0 
+[ 1007.822483] User 1001 is closing file descriptor: 9 
+[ 1007.827044] User 1001 is opening file: /proc/2783/cmdline 
+[ 1007.827077] User 1001 is closing file descriptor: 130 
+[ 1007.827531] User 1001 is closing file descriptor: 8 
+[ 1007.828166] User 1001 is closing file descriptor: 8 
+[ 1007.828656] User 1001 is closing file descriptor: 8 
+[ 1007.829456] User 1001 is closing file descriptor: 7 
+[ 1007.830192] User 1001 is closing file descriptor: 8 
+[ 1007.833372] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/gtk.css 
+[ 1007.833498] User 1001 is closing file descriptor: 10 
+[ 1007.834059] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/gtk-widgets.css 
+[ 1007.834601] User 1001 is closing file descriptor: 10 
+[ 1007.837488] User 1001 is opening file: /usr/lib/gtk-3.0/3.0.0/theming-engines/libunico.so 
+[ 1007.837584] User 1001 is closing file descriptor: 10 
+[ 1007.848382] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/slider.png 
+[ 1007.849299] User 1001 is opening file: /home/andrew/.local/share//mime/aliases 
+[ 1007.849323] User 1001 is opening file: /home/andrew/.local/share//mime/subclasses 
+[ 1007.849332] User 1001 is opening file: /home/andrew/.local/share//mime/icons 
+[ 1007.849338] User 1001 is opening file: /home/andrew/.local/share//mime/generic-icons 
+[ 1007.849349] User 1001 is opening file: /usr/share/ubuntu-2d/mime/aliases 
+[ 1007.849354] User 1001 is opening file: /usr/share/ubuntu-2d/mime/subclasses 
+[ 1007.849359] User 1001 is opening file: /usr/share/ubuntu-2d/mime/icons 
+[ 1007.849363] User 1001 is opening file: /usr/share/ubuntu-2d/mime/generic-icons 
+[ 1007.849372] User 1001 is opening file: /usr/share/gnome/mime/aliases 
+[ 1007.849377] User 1001 is opening file: /usr/share/gnome/mime/subclasses 
+[ 1007.849382] User 1001 is opening file: /usr/share/gnome/mime/icons 
+[ 1007.849387] User 1001 is opening file: /usr/share/gnome/mime/generic-icons 
+[ 1007.849396] User 1001 is opening file: /usr/local/share//mime/aliases 
+[ 1007.849400] User 1001 is opening file: /usr/local/share//mime/subclasses 
+[ 1007.849405] User 1001 is opening file: /usr/local/share//mime/icons 
+[ 1007.849409] User 1001 is opening file: /usr/local/share//mime/generic-icons 
+[ 1007.849416] User 1001 is opening file: /usr/share//mime/mime.cache 
+[ 1007.849458] User 1001 is closing file descriptor: 11 
+[ 1007.849645] User 1001 is opening file: /usr/lib/i386-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache 
+[ 1007.850285] User 1001 is closing file descriptor: 11 
+[ 1007.850474] User 1001 is opening file: /usr/lib/i386-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-png.so 
+[ 1007.850554] User 1001 is closing file descriptor: 11 
+[ 1007.851653] User 1001 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/gdk-pixbuf.mo 
+[ 1007.851664] User 1001 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/gdk-pixbuf.mo 
+[ 1007.851670] User 1001 is opening file: /usr/share/locale/en_US/LC_MESSAGES/gdk-pixbuf.mo 
+[ 1007.851674] User 1001 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/gdk-pixbuf.mo 
+[ 1007.851679] User 1001 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/gdk-pixbuf.mo 
+[ 1007.851684] User 1001 is opening file: /usr/share/locale/en/LC_MESSAGES/gdk-pixbuf.mo 
+[ 1007.851690] User 1001 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/gdk-pixbuf.mo 
+[ 1007.851695] User 1001 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/gdk-pixbuf.mo 
+[ 1007.851700] User 1001 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/gdk-pixbuf.mo 
+[ 1007.851706] User 1001 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/gdk-pixbuf.mo 
+[ 1007.851711] User 1001 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/gdk-pixbuf.mo 
+[ 1007.851716] User 1001 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/gdk-pixbuf.mo 
+[ 1007.852184] User 1001 is closing file descriptor: 10 
+[ 1007.852599] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/slider_prelight.png 
+[ 1007.855020] User 1001 is closing file descriptor: 10 
+[ 1007.855154] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/slider_insensitive.png 
+[ 1007.855436] User 1001 is closing file descriptor: 10 
+[ 1007.855490] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/slider_vertical.png 
+[ 1007.855999] User 1001 is closing file descriptor: 10 
+[ 1007.856523] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/slider_prelight_vertical.png 
+[ 1007.856871] User 1001 is closing file descriptor: 10 
+[ 1007.856930] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/slider_vertical_insensitive.png 
+[ 1007.857151] User 1001 is closing file descriptor: 10 
+[ 1007.857485] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/scrollbar_handle_vertical.png 
+[ 1007.857864] User 1001 is closing file descriptor: 10 
+[ 1007.858042] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/scrollbar_handle.png 
+[ 1007.858224] User 1001 is closing file descriptor: 10 
+[ 1007.862706] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/gtk-widgets-backdrop.css 
+[ 1007.863060] User 1001 is closing file descriptor: 10 
+[ 1007.867574] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/slider_backdrop.png 
+[ 1007.867996] User 1001 is closing file descriptor: 10 
+[ 1007.868090] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/slider_prelight.png 
+[ 1007.868348] User 1001 is closing file descriptor: 10 
+[ 1007.868418] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/slider_insensitive_backdrop.png 
+[ 1007.868630] User 1001 is closing file descriptor: 10 
+[ 1007.868681] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/slider_vertical_backdrop.png 
+[ 1007.869413] User 1001 is closing file descriptor: 10 
+[ 1007.869472] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/slider_prelight_vertical.png 
+[ 1007.869710] User 1001 is closing file descriptor: 10 
+[ 1007.870166] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/slider_vertical_insensitive_backdrop.png 
+[ 1007.870437] User 1001 is closing file descriptor: 10 
+[ 1007.873518] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/apps/gedit.css 
+[ 1007.873553] User 1001 is closing file descriptor: 10 
+[ 1007.873718] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/apps/gnome-panel.css 
+[ 1007.873894] User 1001 is closing file descriptor: 10 
+[ 1007.874472] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/apps/gnome-terminal.css 
+[ 1007.874499] User 1001 is closing file descriptor: 10 
+[ 1007.874564] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/apps/nautilus.css 
+[ 1007.874587] User 1001 is closing file descriptor: 10 
+[ 1007.875318] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/apps/unity.css 
+[ 1007.875343] User 1001 is closing file descriptor: 10 
+[ 1007.875532] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/apps/unity-greeter.css 
+[ 1007.875552] User 1001 is closing file descriptor: 10 
+[ 1007.877491] User 1001 is opening file: /usr/share/themes/Ambiance/gtk-3.0/settings.ini 
+[ 1007.877571] User 1001 is closing file descriptor: 10 
+[ 1007.878013] User 1001 is opening file: /usr/share/themes/Default/gtk-3.0/gtk.gresource 
+[ 1007.878051] User 1001 is opening file: /usr/share/themes/Default/gtk-3.0/gtk-keys.css 
+[ 1007.878077] User 1001 is closing file descriptor: 10 
+[ 1007.878985] User 1001 is opening file: /usr/share/X11/locale/locale.alias 
+[ 1007.879968] User 1001 is closing file descriptor: 10 
+[ 1007.879995] User 1001 is opening file: /usr/share/X11/locale/locale.alias 
+[ 1007.880120] User 1001 is closing file descriptor: 10 
+[ 1007.880120] User 1001 is opening file: /usr/share/X11/locale/locale.dir 
+[ 1007.881400] User 1001 is closing file descriptor: 10 
+[ 1007.881437] User 1001 is opening file: /usr/share/X11/locale/en_US.UTF-8/XLC_LOCALE 
+[ 1007.881788] User 1001 is closing file descriptor: 10 
+[ 1007.882160] User 1001 is opening file: /home/andrew/.Xdefaults-ubuntu 
+[ 1007.882428] User 1001 is opening file: /usr/lib/i386-linux-gnu/gtk-3.0/modules/libcanberra-gtk-module.so 
+[ 1007.882513] User 1001 is closing file descriptor: 10 
+[ 1007.882546] User 1001 is opening file: /etc/ld.so.cache 
+[ 1007.882564] User 1001 is closing file descriptor: 10 
+[ 1007.882625] User 1001 is opening file: /usr/lib/i386-linux-gnu/libcanberra-gtk3.so.0 
+[ 1007.882698] User 1001 is closing file descriptor: 10 
+[ 1007.882829] User 1001 is opening file: /usr/lib/i386-linux-gnu/libcanberra.so.0 
+[ 1007.882898] User 1001 is closing file descriptor: 10 
+[ 1007.883105] User 1001 is opening file: /usr/lib/i386-linux-gnu/libvorbisfile.so.3 
+[ 1007.883175] User 1001 is closing file descriptor: 10 
+[ 1007.883208] User 1001 is opening file: /usr/lib/i386-linux-gnu/libtdb.so.1 
+[ 1007.883275] User 1001 is closing file descriptor: 10 
+[ 1007.883320] User 1001 is opening file: /usr/lib/i386-linux-gnu/libltdl.so.7 
+[ 1007.883389] User 1001 is closing file descriptor: 10 
+[ 1007.883819] User 1001 is opening file: /usr/lib/i386-linux-gnu/libvorbis.so.0 
+[ 1007.883974] User 1001 is closing file descriptor: 10 
+[ 1007.884053] User 1001 is opening file: /usr/lib/i386-linux-gnu/libogg.so.0 
+[ 1007.884125] User 1001 is closing file descriptor: 10 
+[ 1007.889560] User 1001 is opening file: /home/andrew/.ICEauthority 
+[ 1007.889665] User 1001 is closing file descriptor: 11 
+[ 1007.889903] User 1001 is opening file: /home/andrew/.ICEauthority 
+[ 1007.889974] User 1001 is closing file descriptor: 11 
+[ 1007.890107] User 1001 is opening file: /home/andrew/.ICEauthority 
+[ 1007.890179] User 1001 is closing file descriptor: 11 
+[ 1007.890277] User 1001 is opening file: /home/andrew/.ICEauthority 
+[ 1007.890346] User 1001 is closing file descriptor: 11 
+[ 1007.891179] User 1001 is closing file descriptor: 8 
+[ 1007.891510] User 1001 is closing file descriptor: 17 
+[ 1007.896240] User 1001 is closing file descriptor: 8 
+[ 1007.898241] User 1001 is closing file descriptor: 8 
+[ 1007.899588] User 1001 is closing file descriptor: 8 
+[ 1007.900391] User 1001 is closing file descriptor: 8 
+[ 1007.902404] User 1001 is closing file descriptor: 8 
+[ 1007.904219] User 1001 is closing file descriptor: 8 
+[ 1007.905364] User 1001 is closing file descriptor: 8 
+[ 1007.908775] User 1001 is closing file descriptor: 8 
+[ 1007.914292] User 1001 is closing file descriptor: 8 
+[ 1007.915176] User 1001 is closing file descriptor: 8 
+[ 1007.915918] User 1001 is opening file: /usr/share/gtksourceview-3.0/language-specs/c.lang 
+[ 1007.916020] User 1001 is opening file: /usr/share/gtksourceview-3.0/language-specs/language2.rng 
+[ 1007.917163] User 1001 is closing file descriptor: 19 
+[ 1007.918777] User 1001 is opening file: /usr/share/gtksourceview-3.0/language-specs/def.lang 
+[ 1007.919078] User 1001 is opening file: /usr/share/gtksourceview-3.0/language-specs/language2.rng 
+[ 1007.919570] User 1001 is closing file descriptor: 20 
+[ 1007.931366] User 1001 is closing file descriptor: 19 
+[ 1007.940466] User 1001 is opening file: /usr/share/gtksourceview-3.0/language-specs/gtk-doc.lang 
+[ 1007.940587] User 1001 is opening file: /usr/share/gtksourceview-3.0/language-specs/language2.rng 
+[ 1007.941404] User 1001 is closing file descriptor: 20 
+[ 1007.946297] User 1001 is closing file descriptor: 19 
+[ 1007.946760] User 1001 is closing file descriptor: 18 
+[ 1007.952861] User 1001 is opening file: /home/andrew/workspace/awhan_Project2_Part1/Open_Close_Intercept.c 
+[ 1007.970323] User 1001 is closing file descriptor: 8 
+[ 1007.983397] User 1001 is opening file: /usr/share/icons/Humanity/actions/16/window-close.svg 
+[ 1007.985513] User 1001 is closing file descriptor: 19 
+[ 1007.990964] User 1001 is opening file: /usr/share/icons/Humanity/actions/16/window-close.svg 
+[ 1007.992543] User 1001 is closing file descriptor: 19 
+[ 1007.996038] User 1001 is closing file descriptor: 8 
+[ 1007.996953] User 1001 is closing file descriptor: 8 
+[ 1007.997464] User 1001 is closing file descriptor: 11 
+[ 1007.999528] User 1001 is closing file descriptor: 128 
+[ 1008.000563] User 1001 is closing file descriptor: 8 
+[ 1008.001388] User 1001 is closing file descriptor: 7 
+[ 1008.002115] User 1001 is closing file descriptor: 8 
+[ 1008.004102] User 1001 is closing file descriptor: 8 
+[ 1008.004541] User 1001 is closing file descriptor: 8 
+[ 1008.007231] User 1001 is closing file descriptor: 8 
+[ 1008.007615] User 1001 is closing file descriptor: 7 
+[ 1008.008096] User 1001 is closing file descriptor: 7 
+[ 1008.008935] User 1001 is closing file descriptor: 21 
+[ 1008.010112] User 1001 is closing file descriptor: 9 
+[ 1008.010709] User 1001 is closing file descriptor: 129 
+[ 1008.011039] User 1001 is closing file descriptor: 8 
+[ 1008.013949] User 1001 is closing file descriptor: 8 
+[ 1008.014313] User 1001 is closing file descriptor: 7 
+[ 1008.014684] User 1001 is closing file descriptor: 17 
+[ 1008.018374] User 1001 is closing file descriptor: 8 
+[ 1008.028714] User 1001 is closing file descriptor: 8 
+[ 1008.029182] User 1001 is closing file descriptor: 8 
+[ 1008.033048] User 1001 is closing file descriptor: 8 
+[ 1008.033467] User 1001 is closing file descriptor: 7 
+[ 1008.033931] User 1001 is closing file descriptor: 7 
+[ 1008.041546] User 1001 is closing file descriptor: 9 
+[ 1008.052414] User 1001 is closing file descriptor: 9 
+[ 1008.058327] User 1001 is closing file descriptor: 18 
+[ 1008.071090] User 1001 is closing file descriptor: 9 
+[ 1008.086267] User 1001 is closing file descriptor: 9 
+[ 1008.089679] User 1001 is closing file descriptor: 9 
+[ 1008.096130] User 1001 is closing file descriptor: 9 
+[ 1008.096440] User 1001 is closing file descriptor: 9 
+[ 1008.102943] User 1001 is closing file descriptor: 18 
+[ 1008.103172] User 1001 is closing file descriptor: 18 
+[ 1008.103199] User 1001 is opening file: /usr/share/enchant/enchant.ordering 
+[ 1008.103283] User 1001 is closing file descriptor: 18 
+[ 1008.103312] User 1001 is opening file: /home/andrew/.enchant/enchant.ordering 
+[ 1008.103322] User 1001 is opening file: /home/andrew/.config/enchant/enchant.ordering 
+[ 1008.103456] User 1001 is opening file: /usr/share/hunspell/en_US.aff 
+[ 1008.103496] User 1001 is closing file descriptor: 18 
+[ 1008.103513] User 1001 is opening file: /usr/share/hunspell/en_US.dic 
+[ 1008.106966] User 1001 is closing file descriptor: 9 
+[ 1008.107512] User 1001 is closing file descriptor: 9 
+[ 1008.114432] User 1001 is closing file descriptor: 9 
+[ 1008.115590] User 1001 is closing file descriptor: 9 
+[ 1008.118282] User 1001 is closing file descriptor: 9 
+[ 1008.128027] User 1001 is closing file descriptor: 9 
+[ 1008.129662] User 1001 is closing file descriptor: 9 
+[ 1008.130899] User 1001 is closing file descriptor: 9 
+[ 1008.132577] User 1001 is closing file descriptor: 9 
+[ 1008.136159] User 1001 is closing file descriptor: 9 
+[ 1008.139901] User 1001 is closing file descriptor: 9 
+[ 1008.143628] User 1001 is closing file descriptor: 9 
+[ 1008.145088] User 1001 is closing file descriptor: 9 
+[ 1008.149512] User 1001 is closing file descriptor: 9 
+[ 1008.150174] User 1001 is closing file descriptor: 9 
+[ 1008.151152] User 1001 is closing file descriptor: 9 
+[ 1008.153704] User 1001 is opening file: /var/log/syslog 
+[ 1008.153715] User 1001 is opening file: /var/log/syslog 
+[ 1008.153735] User 1001 is closing file descriptor: 26 
+[ 1008.154009] User 1001 is opening file: /proc/filesystems 
+[ 1008.154094] User 1001 is closing file descriptor: 26 
+[ 1008.154233] User 1001 is opening file: /sys/devices/pci0000:00/0000:00:10.0/host2/target2:0:0/2:0:0:0/block/sda/sda1/uevent 
+[ 1008.154335] User 1001 is closing file descriptor: 26 
+[ 1008.154379] User 1001 is opening file: /run/udev/data/b8:1 
+[ 1008.154456] User 1001 is closing file descriptor: 26 
+[ 1008.154903] User 1001 is closing file descriptor: 9 
+[ 1008.155434] User 1001 is closing file descriptor: 9 
+[ 1008.157628] User 1001 is closing file descriptor: 9 
+[ 1008.158944] User 1001 is opening file: /usr/share/themes/Ambiance/metacity-1/unmaximize.png 
+[ 1008.159186] User 1001 is closing file descriptor: 19 
+[ 1008.159256] User 1001 is opening file: /usr/share/themes/Ambiance/metacity-1/unmaximize_focused_prelight.png 
+[ 1008.159379] User 1001 is closing file descriptor: 19 
+[ 1008.159432] User 1001 is opening file: /usr/share/themes/Ambiance/metacity-1/unmaximize_focused_pressed.png 
+[ 1008.159531] User 1001 is closing file descriptor: 19 
+[ 1008.161439] User 1001 is closing file descriptor: 9 
+[ 1008.162081] User 1001 is closing file descriptor: 9 
+[ 1008.165829] User 1001 is closing file descriptor: 9 
+[ 1008.166417] User 1001 is closing file descriptor: 9 
+[ 1008.170284] User 1001 is closing file descriptor: 9 
+[ 1008.172059] User 1001 is closing file descriptor: 9 
+[ 1008.179402] User 1001 is closing file descriptor: 9 
+[ 1008.180689] User 1001 is closing file descriptor: 9 
+[ 1008.185010] User 1001 is closing file descriptor: 9 
+[ 1008.186557] User 1001 is closing file descriptor: 9 
+[ 1008.187834] User 1001 is closing file descriptor: 8 
+[ 1008.188306] User 1001 is closing file descriptor: 7 
+[ 1008.195208] User 1001 is opening file: /proc/filesystems 
+[ 1008.195306] User 1001 is closing file descriptor: 26 
+[ 1008.195497] User 1001 is opening file: /sys/devices/pci0000:00/0000:00:10.0/host2/target2:0:0/2:0:0:0/block/sda/sda1/uevent 
+[ 1008.195562] User 1001 is closing file descriptor: 26 
+[ 1008.195608] User 1001 is opening file: /run/udev/data/b8:1 
+[ 1008.195699] User 1001 is closing file descriptor: 26 
+[ 1008.209150] User 1001 is opening file: /proc/filesystems 
+[ 1008.209244] User 1001 is closing file descriptor: 26 
+[ 1008.209379] User 1001 is opening file: /sys/devices/pci0000:00/0000:00:10.0/host2/target2:0:0/2:0:0:0/block/sda/sda1/uevent 
+[ 1008.209442] User 1001 is closing file descriptor: 26 
+[ 1008.209485] User 1001 is opening file: /run/udev/data/b8:1 
+[ 1008.209572] User 1001 is closing file descriptor: 26 
+[ 1008.210049] User 1001 is opening file: /var/log/syslog 
+[ 1008.210328] User 1001 is closing file descriptor: 26 
+[ 1008.213341] User 1001 is opening file: /var/log/kern.log 
+[ 1008.213815] User 1001 is closing file descriptor: 26 
+[ 1008.214022] User 1001 is opening file: /var/log/auth.log 
+[ 1008.214861] User 1001 is closing file descriptor: 26 
+[ 1008.216030] User 1001 is closing file descriptor: 8 
+[ 1008.217649] User 1001 is closing file descriptor: 7 
+[ 1008.220860] User 1001 is closing file descriptor: 9 
+[ 1008.226991] User 1001 is closing file descriptor: 9 
+[ 1008.228534] User 1001 is closing file descriptor: 9 
+[ 1008.230319] User 1001 is closing file descriptor: 9 
+[ 1008.242087] User 1001 is opening file: /home/andrew/.local/share/applications/gedit.desktop 
+[ 1008.242154] User 1001 is opening file: /usr/share/ubuntu-2d/applications/gedit.desktop 
+[ 1008.242179] User 1001 is opening file: /usr/share/gnome/applications/gedit.desktop 
+[ 1008.242204] User 1001 is opening file: /usr/local/share/applications/gedit.desktop 
+[ 1008.242227] User 1001 is opening file: /usr/share/applications/gedit.desktop 
+[ 1008.242346] User 1001 is closing file descriptor: 26 
+[ 1008.248238] User 1001 is opening file: /usr/share/icons/Humanity/apps/16/accessories-text-editor.svg 
+[ 1008.285913] User 1001 is closing file descriptor: 26 
+[ 1008.303877] User 1001 is opening file: /usr/share/icons/Humanity/apps/16/accessories-text-editor.svg 
+[ 1008.306592] User 1001 is closing file descriptor: 9 
+[ 1008.312580] User 1001 is closing file descriptor: 9 
+[ 1008.316262] User 1001 is closing file descriptor: 9 
+[ 1008.318995] User 1001 is closing file descriptor: 9 
+[ 1008.338302] User 1001 is closing file descriptor: 26 
+[ 1008.351447] User 1001 is opening file: /home/andrew/.local/share/applications/gedit.desktop 
+[ 1008.351505] User 1001 is opening file: /usr/share/ubuntu-2d/applications/gedit.desktop 
+[ 1008.351533] User 1001 is opening file: /usr/share/gnome/applications/gedit.desktop 
+[ 1008.351558] User 1001 is opening file: /usr/local/share/applications/gedit.desktop 
+[ 1008.351582] User 1001 is opening file: /usr/share/applications/gedit.desktop 
+[ 1008.352030] User 1001 is closing file descriptor: 26 
+[ 1008.353123] User 1001 is opening file: /home/andrew/.local/share/applications/gedit.desktop 
+[ 1008.353171] User 1001 is opening file: /usr/share/ubuntu-2d/applications/gedit.desktop 
+[ 1008.353197] User 1001 is opening file: /usr/share/gnome/applications/gedit.desktop 
+[ 1008.353222] User 1001 is opening file: /usr/local/share/applications/gedit.desktop 
+[ 1008.353246] User 1001 is opening file: /usr/share/applications/gedit.desktop 
+[ 1008.353328] User 1001 is closing file descriptor: 26 
+[ 1008.353658] User 1001 is opening file: /home/andrew/.local/share/applications/gedit.desktop 
+[ 1008.353686] User 1001 is opening file: /usr/share/ubuntu-2d/applications/gedit.desktop 
+[ 1008.353709] User 1001 is opening file: /usr/share/gnome/applications/gedit.desktop 
+[ 1008.353731] User 1001 is opening file: /usr/local/share/applications/gedit.desktop 
+[ 1008.353863] User 1001 is opening file: /usr/share/applications/gedit.desktop 
+[ 1008.353936] User 1001 is closing file descriptor: 26 
+[ 1008.373495] User 1001 is closing file descriptor: 8 
+[ 1008.374864] User 1001 is closing file descriptor: 9 
+[ 1008.381660] User 1001 is closing file descriptor: 18 
+[ 1008.383466] User 1001 is opening file: /usr/share/hunspell/en_US.aff 
+[ 1008.384356] User 1001 is closing file descriptor: 18 
+[ 1008.384497] User 1001 is opening file: /home/andrew/.config/enchant/en_US.dic 
+[ 1008.384514] User 1001 is closing file descriptor: 18 
+[ 1008.384527] User 1001 is opening file: /home/andrew/.config/enchant/en_US.dic 
+[ 1008.384544] User 1001 is closing file descriptor: 18 
+[ 1008.384555] User 1001 is opening file: /home/andrew/.config/enchant/en_US.exc 
+[ 1008.384565] User 1001 is closing file descriptor: 18 
+[ 1008.384575] User 1001 is opening file: /home/andrew/.config/enchant/en_US.exc 
+[ 1008.384585] User 1001 is closing file descriptor: 18 
+[ 1008.385467] User 1001 is opening file: /usr/share/icons/Humanity/mimes/22/text-x-csrc.svg 
+[ 1008.391103] User 1001 is closing file descriptor: 18 
+[ 1008.406648] User 1001 is closing file descriptor: 9 
+[ 1008.408209] User 1001 is closing file descriptor: 9 
+[ 1008.411981] User 1001 is closing file descriptor: 9 
+[ 1008.413270] User 1001 is closing file descriptor: 9 
+[ 1008.465946] User 1001 is opening file: /usr/share/hunspell/en_US.aff 
+[ 1008.466028] User 1001 is closing file descriptor: 18 
+[ 1008.466058] User 1001 is opening file: /usr/share/hunspell/en_US.dic 
+[ 1008.520098] User 1001 is closing file descriptor: 18 
+[ 1008.521080] User 1001 is opening file: /usr/share/hunspell/en_US.aff 
+[ 1008.521589] User 1001 is closing file descriptor: 18 
+[ 1008.521691] User 1001 is opening file: /home/andrew/.config/enchant/en_US.dic 
+[ 1008.521707] User 1001 is closing file descriptor: 18 
+[ 1008.521720] User 1001 is opening file: /home/andrew/.config/enchant/en_US.dic 
+[ 1008.521737] User 1001 is closing file descriptor: 18 
+[ 1008.521811] User 1001 is opening file: /home/andrew/.config/enchant/en_US.exc 
+[ 1008.521858] User 1001 is closing file descriptor: 18 
+[ 1008.521894] User 1001 is opening file: /home/andrew/.config/enchant/en_US.exc 
+[ 1008.521925] User 1001 is closing file descriptor: 18 
+[ 1008.523655] User 1001 is closing file descriptor: 8 
+[ 1008.525850] User 1001 is closing file descriptor: 7 
+[ 1008.537516] User 1001 is opening file: /home/andrew/.local/share/recently-used.xbel.IO5OAX 
+[ 1008.552559] User 1001 is closing file descriptor: 8 
+[ 1008.555659] User 1001 is opening file: /home/andrew/.local/share/zeitgeist/fts.index/postlist.tmp 
+[ 1008.556418] User 1001 is closing file descriptor: 18 
+[ 1008.561904] User 1001 is closing file descriptor: 9 
+[ 1008.565157] User 1001 is closing file descriptor: 7 
+[ 1008.565467] User 1001 is closing file descriptor: 7 
+[ 1008.565851] User 1001 is closing file descriptor: 8 
+[ 1008.582842] User 1001 is closing file descriptor: 17 
+[ 1008.585615] User 1001 is opening file: /home/andrew/.local/share/zeitgeist/fts.index/position.tmp 
+[ 1008.589893] User 1001 is closing file descriptor: 17 
+[ 1008.590916] User 1001 is opening file: /home/andrew/.local/share/zeitgeist/fts.index/termlist.tmp 
+[ 1008.594833] User 1001 is closing file descriptor: 17 
+[ 1008.595915] User 1001 is opening file: /home/andrew/.local/share/zeitgeist/fts.index/record.tmp 
+[ 1008.598631] User 1001 is closing file descriptor: 17 
+[ 1008.792252] User 1001 is opening file: /var/log/syslog 
+[ 1008.792268] User 1001 is opening file: /var/log/syslog 
+[ 1008.792301] User 1001 is closing file descriptor: 18 
+[ 1008.792574] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1008.795106] User 1001 is closing file descriptor: 18 
+[ 1008.795466] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1008.797212] User 1001 is closing file descriptor: 18 
+[ 1008.797542] User 1001 is opening file: /usr/share/icons/Humanity/mimes/22/text-x-csrc.svg 
+[ 1008.803305] User 1001 is closing file descriptor: 18 
+[ 1008.806362] User 1001 is closing file descriptor: 8 
+[ 1008.807105] User 1001 is closing file descriptor: 9 
+[ 1008.812164] User 1001 is opening file: /usr/share/icons/Humanity/mimes/22/text-x-csrc.svg 
+[ 1008.825691] User 1001 is closing file descriptor: 18 
+[ 1008.828418] User 1001 is opening file: /usr/share/icons/Humanity/mimes/22/text-x-csrc.svg 
+[ 1008.833690] User 1001 is closing file descriptor: 18 
+[ 1008.837410] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1008.839181] User 1001 is closing file descriptor: 18 
+[ 1008.843299] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1008.844120] User 1001 is closing file descriptor: 18 
+[ 1008.847013] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1008.850102] User 1001 is closing file descriptor: 18 
+[ 1008.852396] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1008.855417] User 1001 is closing file descriptor: 18 
+[ 1008.857712] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1008.859542] User 1001 is closing file descriptor: 18 
+[ 1008.862023] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1008.863411] User 1001 is closing file descriptor: 18 
+[ 1008.867126] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1008.869227] User 1001 is closing file descriptor: 18 
+[ 1008.871038] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1008.874048] User 1001 is closing file descriptor: 18 
+[ 1008.952117] User 1001 is closing file descriptor: 8 
+[ 1008.961568] User 1001 is closing file descriptor: 9 
+[ 1008.977090] User 1001 is closing file descriptor: 9 
+[ 1008.980220] User 1001 is closing file descriptor: 8 
+[ 1008.991707] User 1001 is closing file descriptor: 8 
+[ 1009.050705] User 1001 is closing file descriptor: 9 
+[ 1009.106738] User 1001 is closing file descriptor: 8 
+[ 1009.120365] User 1001 is closing file descriptor: 8 
+[ 1009.130508] User 1001 is closing file descriptor: 8 
+[ 1009.133326] User 1001 is closing file descriptor: 9 
+[ 1009.157416] User 1001 is closing file descriptor: 8 
+[ 1009.181420] User 1001 is closing file descriptor: 8 
+[ 1009.188707] User 1001 is closing file descriptor: 8 
+[ 1009.217276] User 1001 is closing file descriptor: 8 
+[ 1009.225101] User 1001 is closing file descriptor: 8 
+[ 1009.233721] User 1001 is closing file descriptor: 8 
+[ 1009.277155] User 1001 is closing file descriptor: 8 
+[ 1009.285037] User 1001 is closing file descriptor: 8 
+[ 1009.311180] User 1001 is closing file descriptor: 8 
+[ 1009.320438] User 1001 is closing file descriptor: 8 
+[ 1009.356600] User 1001 is opening file: /usr/share/icons/Humanity/actions/16/window-close.svg 
+[ 1009.358889] User 1001 is closing file descriptor: 18 
+[ 1009.394648] User 1001 is opening file: /usr/share/icons/Humanity/actions/16/window-close.svg 
+[ 1009.395924] User 1001 is closing file descriptor: 18 
+[ 1009.564505] User 1001 is opening file: /home/andrew/.local/share/recently-used.xbel 
+[ 1009.564655] User 1001 is closing file descriptor: 9 
+[ 1009.574467] User 1001 is closing file descriptor: 9 
+[ 1009.574696] User 1001 is opening file: /usr/share/applications/language-selector.desktop 
+[ 1009.574726] User 1001 is closing file descriptor: 10 
+[ 1009.574759] User 1001 is opening file: /usr/share/applications/python2.7.desktop 
+[ 1009.574778] User 1001 is closing file descriptor: 10 
+[ 1009.574821] User 1001 is opening file: /usr/share/applications/libreoffice-writer.desktop 
+[ 1009.575610] User 1001 is closing file descriptor: 10 
+[ 1009.575960] User 1001 is opening file: /usr/share/applications/libreoffice-calc.desktop 
+[ 1009.575997] User 1001 is closing file descriptor: 10 
+[ 1009.576040] User 1001 is opening file: /usr/share/applications/libreoffice-impress.desktop 
+[ 1009.576040] User 1001 is closing file descriptor: 10 
+[ 1009.576040] User 1001 is opening file: /usr/share/applications/ubuntu-software-center.desktop 
+[ 1009.576040] User 1001 is closing file descriptor: 10 
+[ 1009.576040] User 1001 is opening file: /usr/share/applications/libreoffice-draw.desktop 
+[ 1009.576040] User 1001 is closing file descriptor: 10 
+[ 1009.577888] User 1001 is opening file: /usr/share/applications/libreoffice-startcenter.desktop 
+[ 1009.577931] User 1001 is closing file descriptor: 10 
+[ 1009.578160] User 1001 is opening file: /usr/share/applications/libreoffice-math.desktop 
+[ 1009.578195] User 1001 is closing file descriptor: 10 
+[ 1009.578372] User 1001 is opening file: /usr/share/applications/software-properties-gtk.desktop 
+[ 1009.578392] User 1001 is closing file descriptor: 10 
+[ 1009.578426] User 1001 is opening file: /usr/share/applications/activity-log-manager-ccpanel.desktop 
+[ 1009.578447] User 1001 is closing file descriptor: 10 
+[ 1009.578480] User 1001 is opening file: /usr/share/applications/apturl.desktop 
+[ 1009.578499] User 1001 is closing file descriptor: 10 
+[ 1009.578525] User 1001 is opening file: /usr/share/applications/baobab.desktop 
+[ 1009.578543] User 1001 is closing file descriptor: 10 
+[ 1009.578603] User 1001 is opening file: /usr/share/applications/bluetooth-properties.desktop 
+[ 1009.578624] User 1001 is closing file descriptor: 10 
+[ 1009.578655] User 1001 is opening file: /usr/share/applications/bluetooth-sendto.desktop 
+[ 1009.578673] User 1001 is closing file descriptor: 10 
+[ 1009.578702] User 1001 is opening file: /usr/share/applications/bluetooth-wizard.desktop 
+[ 1009.578720] User 1001 is closing file descriptor: 10 
+[ 1009.578749] User 1001 is opening file: /usr/share/applications/brasero-nautilus.desktop 
+[ 1009.578805] User 1001 is closing file descriptor: 10 
+[ 1009.579044] User 1001 is opening file: /usr/share/applications/brasero.desktop 
+[ 1009.579066] User 1001 is closing file descriptor: 10 
+[ 1009.579107] User 1001 is opening file: /usr/share/applications/debian-uxterm.desktop 
+[ 1009.579126] User 1001 is closing file descriptor: 10 
+[ 1009.579172] User 1001 is opening file: /usr/share/applications/debian-xterm.desktop 
+[ 1009.579191] User 1001 is closing file descriptor: 10 
+[ 1009.579255] User 1001 is opening file: /usr/share/applications/deja-dup-ccpanel.desktop 
+[ 1009.579273] User 1001 is closing file descriptor: 10 
+[ 1009.579305] User 1001 is opening file: /usr/share/applications/deja-dup-preferences.desktop 
+[ 1009.579324] User 1001 is closing file descriptor: 10 
+[ 1009.579355] User 1001 is opening file: /usr/share/applications/deja-dup.desktop 
+[ 1009.579377] User 1001 is closing file descriptor: 10 
+[ 1009.579448] User 1001 is opening file: /usr/share/applications/eog.desktop 
+[ 1009.579466] User 1001 is closing file descriptor: 10 
+[ 1009.579499] User 1001 is opening file: /usr/share/applications/evince.desktop 
+[ 1009.579518] User 1001 is closing file descriptor: 10 
+[ 1009.579550] User 1001 is opening file: /usr/share/applications/file-roller.desktop 
+[ 1009.579569] User 1001 is closing file descriptor: 10 
+[ 1009.579610] User 1001 is opening file: /usr/share/applications/freecell.desktop 
+[ 1009.579629] User 1001 is closing file descriptor: 10 
+[ 1009.579657] User 1001 is opening file: /usr/share/applications/gcalctool.desktop 
+[ 1009.579676] User 1001 is closing file descriptor: 10 
+[ 1009.579705] User 1001 is opening file: /usr/share/applications/gcr-viewer.desktop 
+[ 1009.579723] User 1001 is closing file descriptor: 10 
+[ 1009.579754] User 1001 is opening file: /usr/share/applications/gedit.desktop 
+[ 1009.579772] User 1001 is closing file descriptor: 10 
+[ 1009.579804] User 1001 is opening file: /usr/share/applications/gksu.desktop 
+[ 1009.579823] User 1001 is closing file descriptor: 10 
+[ 1009.584631] User 1001 is opening file: /usr/share/applications/gnome-font-viewer.desktop 
+[ 1009.584671] User 1001 is closing file descriptor: 10 
+[ 1009.584771] User 1001 is opening file: /usr/share/applications/gnome-keyring-prompt.desktop 
+[ 1009.584798] User 1001 is closing file descriptor: 10 
+[ 1009.584844] User 1001 is opening file: /usr/share/applications/gnome-nettool.desktop 
+[ 1009.584870] User 1001 is closing file descriptor: 10 
+[ 1009.584900] User 1001 is opening file: /usr/share/applications/gnome-power-statistics.desktop 
+[ 1009.584919] User 1001 is closing file descriptor: 10 
+[ 1009.584950] User 1001 is opening file: /usr/share/applications/gnome-screenshot.desktop 
+[ 1009.584969] User 1001 is closing file descriptor: 10 
+[ 1009.585003] User 1001 is opening file: /usr/share/applications/gnome-sound-recorder.desktop 
+[ 1009.585022] User 1001 is closing file descriptor: 10 
+[ 1009.585052] User 1001 is opening file: /usr/share/applications/gnome-sudoku.desktop 
+[ 1009.585071] User 1001 is closing file descriptor: 10 
+[ 1009.585100] User 1001 is opening file: /usr/share/applications/gnome-system-log.desktop 
+[ 1009.585119] User 1001 is closing file descriptor: 10 
+[ 1009.585148] User 1001 is opening file: /usr/share/applications/gnome-system-monitor.desktop 
+[ 1009.585167] User 1001 is closing file descriptor: 10 
+[ 1009.585198] User 1001 is opening file: /usr/share/applications/gnome-terminal.desktop 
+[ 1009.585216] User 1001 is closing file descriptor: 10 
+[ 1009.585248] User 1001 is opening file: /usr/share/applications/gnome-user-share-properties.desktop 
+[ 1009.585267] User 1001 is closing file descriptor: 10 
+[ 1009.585296] User 1001 is opening file: /usr/share/applications/gnomine.desktop 
+[ 1009.585314] User 1001 is closing file descriptor: 10 
+[ 1009.585343] User 1001 is opening file: /usr/share/applications/gstreamer-properties.desktop 
+[ 1009.585362] User 1001 is closing file descriptor: 10 
+[ 1009.585391] User 1001 is opening file: /usr/share/applications/gucharmap.desktop 
+[ 1009.585409] User 1001 is closing file descriptor: 10 
+[ 1009.585439] User 1001 is opening file: /usr/share/applications/gwibber-accounts.desktop 
+[ 1009.585458] User 1001 is closing file descriptor: 10 
+[ 1009.585526] User 1001 is opening file: /usr/share/applications/gwibber-preferences.desktop 
+[ 1009.585546] User 1001 is closing file descriptor: 10 
+[ 1009.585617] User 1001 is opening file: /usr/share/applications/gwibber.desktop 
+[ 1009.585637] User 1001 is closing file descriptor: 10 
+[ 1009.585709] User 1001 is opening file: /usr/share/applications/hplj1020.desktop 
+[ 1009.585728] User 1001 is closing file descriptor: 10 
+[ 1009.585757] User 1001 is opening file: /usr/share/applications/ibus-setup.desktop 
+[ 1009.585775] User 1001 is closing file descriptor: 10 
+[ 1009.585802] User 1001 is opening file: /usr/share/applications/ibus.desktop 
+[ 1009.585821] User 1001 is closing file descriptor: 10 
+[ 1009.585885] User 1001 is opening file: /usr/share/applications/im-switch.desktop 
+[ 1009.585907] User 1001 is closing file descriptor: 10 
+[ 1009.585965] User 1001 is opening file: /usr/share/applications/indicator-datetime-preferences.desktop 
+[ 1009.585987] User 1001 is closing file descriptor: 10 
+[ 1009.586018] User 1001 is opening file: /usr/share/applications/mahjongg.desktop 
+[ 1009.586036] User 1001 is closing file descriptor: 10 
+[ 1009.586065] User 1001 is opening file: /usr/share/applications/metacity.desktop 
+[ 1009.586084] User 1001 is closing file descriptor: 10 
+[ 1009.586114] User 1001 is opening file: /usr/share/applications/mount-archive.desktop 
+[ 1009.586132] User 1001 is closing file descriptor: 10 
+[ 1009.586161] User 1001 is opening file: /usr/share/applications/nautilus-autorun-software.desktop 
+[ 1009.586179] User 1001 is closing file descriptor: 10 
+[ 1009.586209] User 1001 is opening file: /usr/share/applications/nautilus-folder-handler.desktop 
+[ 1009.586228] User 1001 is closing file descriptor: 10 
+[ 1009.586257] User 1001 is opening file: /usr/share/applications/nautilus-home.desktop 
+[ 1009.586276] User 1001 is closing file descriptor: 10 
+[ 1009.586306] User 1001 is opening file: /usr/share/applications/nautilus.desktop 
+[ 1009.586324] User 1001 is closing file descriptor: 10 
+[ 1009.586355] User 1001 is opening file: /usr/share/applications/nm-applet.desktop 
+[ 1009.586438] User 1001 is closing file descriptor: 10 
+[ 1009.586469] User 1001 is opening file: /usr/share/applications/nm-connection-editor.desktop 
+[ 1009.586488] User 1001 is closing file descriptor: 10 
+[ 1009.586742] User 1001 is opening file: /usr/share/applications/onboard-settings.desktop 
+[ 1009.586765] User 1001 is closing file descriptor: 10 
+[ 1009.586794] User 1001 is opening file: /usr/share/applications/onboard.desktop 
+[ 1009.587198] User 1001 is closing file descriptor: 10 
+[ 1009.587271] User 1001 is opening file: /usr/share/applications/orca.desktop 
+[ 1009.587296] User 1001 is closing file descriptor: 10 
+[ 1009.587328] User 1001 is opening file: /usr/share/applications/palimpsest.desktop 
+[ 1009.587346] User 1001 is closing file descriptor: 10 
+[ 1009.587375] User 1001 is opening file: /usr/share/applications/remmina.desktop 
+[ 1009.587394] User 1001 is closing file descriptor: 10 
+[ 1009.587425] User 1001 is opening file: /usr/share/applications/rhythmbox-device.desktop 
+[ 1009.587444] User 1001 is closing file descriptor: 10 
+[ 1009.587476] User 1001 is opening file: /usr/share/applications/rhythmbox.desktop 
+[ 1009.587495] User 1001 is closing file descriptor: 10 
+[ 1009.587532] User 1001 is opening file: /usr/share/applications/seahorse.desktop 
+[ 1009.587551] User 1001 is closing file descriptor: 10 
+[ 1009.587580] User 1001 is opening file: /usr/share/applications/session-properties.desktop 
+[ 1009.587598] User 1001 is closing file descriptor: 10 
+[ 1009.587629] User 1001 is opening file: /usr/share/applications/shotwell-viewer.desktop 
+[ 1009.587647] User 1001 is closing file descriptor: 10 
+[ 1009.587684] User 1001 is opening file: /usr/share/applications/shotwell.desktop 
+[ 1009.587702] User 1001 is closing file descriptor: 10 
+[ 1009.587730] User 1001 is opening file: /usr/share/applications/simple-scan.desktop 
+[ 1009.587748] User 1001 is closing file descriptor: 10 
+[ 1009.587775] User 1001 is opening file: /usr/share/applications/sol.desktop 
+[ 1009.587793] User 1001 is closing file descriptor: 10 
+[ 1009.594463] User 1001 is opening file: /usr/share/applications/system-config-printer.desktop 
+[ 1009.594745] User 1001 is closing file descriptor: 10 
+[ 1009.594860] User 1001 is opening file: /usr/share/applications/totem.desktop 
+[ 1009.594890] User 1001 is closing file descriptor: 10 
+[ 1009.594951] User 1001 is opening file: /usr/share/applications/transmission-gtk.desktop 
+[ 1009.595008] User 1001 is closing file descriptor: 10 
+[ 1009.595081] User 1001 is opening file: /usr/share/applications/ubuntuone-installer.desktop 
+[ 1009.595101] User 1001 is closing file descriptor: 10 
+[ 1009.595130] User 1001 is opening file: /usr/share/applications/update-manager.desktop 
+[ 1009.595149] User 1001 is closing file descriptor: 10 
+[ 1009.595177] User 1001 is opening file: /usr/share/applications/xdiagnose.desktop 
+[ 1009.595195] User 1001 is closing file descriptor: 10 
+[ 1009.595222] User 1001 is opening file: /usr/share/applications/yelp.desktop 
+[ 1009.595240] User 1001 is closing file descriptor: 10 
+[ 1009.595270] User 1001 is opening file: /usr/share/applications/apport-gtk-mime.desktop 
+[ 1009.595289] User 1001 is closing file descriptor: 10 
+[ 1009.595316] User 1001 is opening file: /usr/share/applications/usb-creator-gtk.desktop 
+[ 1009.595335] User 1001 is closing file descriptor: 10 
+[ 1009.595362] User 1001 is opening file: /usr/share/applications/unity-2d-panel.desktop 
+[ 1009.595382] User 1001 is closing file descriptor: 10 
+[ 1009.595409] User 1001 is opening file: /usr/share/applications/jockey-gtk.desktop 
+[ 1009.595427] User 1001 is closing file descriptor: 10 
+[ 1009.595455] User 1001 is opening file: /usr/share/applications/checkbox-qt.desktop 
+[ 1009.595473] User 1001 is closing file descriptor: 10 
+[ 1009.595500] User 1001 is opening file: /usr/share/applications/compiz.desktop 
+[ 1009.595518] User 1001 is closing file descriptor: 10 
+[ 1009.595546] User 1001 is opening file: /usr/share/applications/empathy.desktop 
+[ 1009.595565] User 1001 is closing file descriptor: 10 
+[ 1009.595597] User 1001 is opening file: /usr/share/applications/empathy-accounts.desktop 
+[ 1009.595615] User 1001 is closing file descriptor: 10 
+[ 1009.595644] User 1001 is opening file: /usr/share/applications/firefox.desktop 
+[ 1009.595675] User 1001 is closing file descriptor: 10 
+[ 1009.595811] User 1001 is opening file: /usr/share/applications/landscape-client-settings.desktop 
+[ 1009.595889] User 1001 is closing file descriptor: 10 
+[ 1009.595923] User 1001 is opening file: /usr/share/applications/vino-preferences.desktop 
+[ 1009.595941] User 1001 is closing file descriptor: 10 
+[ 1009.595971] User 1001 is opening file: /usr/share/applications/gnome-info-panel.desktop 
+[ 1009.595990] User 1001 is closing file descriptor: 10 
+[ 1009.596023] User 1001 is opening file: /usr/share/applications/gnome-datetime-panel.desktop 
+[ 1009.596041] User 1001 is closing file descriptor: 10 
+[ 1009.596071] User 1001 is opening file: /usr/share/applications/unity-2d-shell.desktop 
+[ 1009.596089] User 1001 is closing file descriptor: 10 
+[ 1009.596117] User 1001 is opening file: /usr/share/applications/gnome-keyboard-panel.desktop 
+[ 1009.596136] User 1001 is closing file descriptor: 10 
+[ 1009.596167] User 1001 is opening file: /usr/share/applications/gnome-universal-access-panel.desktop 
+[ 1009.596186] User 1001 is closing file descriptor: 10 
+[ 1009.596219] User 1001 is opening file: /usr/share/applications/gnome-power-panel.desktop 
+[ 1009.596238] User 1001 is closing file descriptor: 10 
+[ 1009.596269] User 1001 is opening file: /usr/share/applications/gnome-color-panel.desktop 
+[ 1009.598453] User 1001 is closing file descriptor: 10 
+[ 1009.598492] User 1001 is opening file: /usr/share/applications/gnome-mouse-panel.desktop 
+[ 1009.598513] User 1001 is closing file descriptor: 10 
+[ 1009.598571] User 1001 is opening file: /usr/share/applications/gnome-user-accounts-panel.desktop 
+[ 1009.598598] User 1001 is closing file descriptor: 10 
+[ 1009.598631] User 1001 is opening file: /usr/share/applications/gnome-online-accounts-panel.desktop 
+[ 1009.598650] User 1001 is closing file descriptor: 10 
+[ 1009.598682] User 1001 is opening file: /usr/share/applications/gnome-printers-panel.desktop 
+[ 1009.598701] User 1001 is closing file descriptor: 10 
+[ 1009.598731] User 1001 is opening file: /usr/share/applications/gnome-network-panel.desktop 
+[ 1009.598750] User 1001 is closing file descriptor: 10 
+[ 1009.598908] User 1001 is opening file: /usr/share/applications/gnome-region-panel.desktop 
+[ 1009.598930] User 1001 is closing file descriptor: 10 
+[ 1009.598963] User 1001 is opening file: /usr/share/applications/gnome-screen-panel.desktop 
+[ 1009.598981] User 1001 is closing file descriptor: 10 
+[ 1009.599014] User 1001 is opening file: /usr/share/applications/gnome-control-center.desktop 
+[ 1009.599032] User 1001 is closing file descriptor: 10 
+[ 1009.599061] User 1001 is opening file: /usr/share/applications/gnome-sound-nua-panel.desktop 
+[ 1009.599079] User 1001 is closing file descriptor: 10 
+[ 1009.599111] User 1001 is opening file: /usr/share/applications/gnome-wacom-panel.desktop 
+[ 1009.599129] User 1001 is closing file descriptor: 10 
+[ 1009.599161] User 1001 is opening file: /usr/share/applications/gnome-sound-panel.desktop 
+[ 1009.599179] User 1001 is closing file descriptor: 10 
+[ 1009.599211] User 1001 is opening file: /usr/share/applications/gnome-display-panel.desktop 
+[ 1009.599229] User 1001 is closing file descriptor: 10 
+[ 1009.599261] User 1001 is opening file: /usr/share/applications/gnome-background-panel.desktop 
+[ 1009.599280] User 1001 is closing file descriptor: 10 
+[ 1009.599310] User 1001 is opening file: /usr/share/applications/thunderbird.desktop 
+[ 1009.599341] User 1001 is closing file descriptor: 10 
+[ 1009.599507] User 1001 is opening file: /usr/share/applications/openjdk-6-policytool.desktop 
+[ 1009.599529] User 1001 is closing file descriptor: 10 
+[ 1009.599557] User 1001 is opening file: /usr/share/applications/openjdk-6-java.desktop 
+[ 1009.599575] User 1001 is closing file descriptor: 10 
+[ 1009.599604] User 1001 is opening file: /usr/share/applications/eclipse.desktop 
+[ 1009.599623] User 1001 is closing file descriptor: 10 
+[ 1009.599648] User 1001 is opening file: /usr/share/applications/itweb-settings.desktop 
+[ 1009.599667] User 1001 is closing file descriptor: 10 
+[ 1009.599693] User 1001 is opening file: /usr/share/applications/icedtea-netx-javaws.desktop 
+[ 1009.599711] User 1001 is closing file descriptor: 10 
+[ 1009.599739] User 1001 is opening file: /usr/share/applications/qdevelop.desktop 
+[ 1009.599757] User 1001 is closing file descriptor: 10 
+[ 1009.599783] User 1001 is opening file: /usr/share/applications/designer-qt4.desktop 
+[ 1009.599803] User 1001 is closing file descriptor: 10 
+[ 1009.599956] User 1001 is opening file: /usr/share/applications/assistant-qt4.desktop 
+[ 1009.599979] User 1001 is closing file descriptor: 10 
+[ 1009.600129] User 1001 is opening file: /usr/share/applications/linguist-qt4.desktop 
+[ 1009.600151] User 1001 is closing file descriptor: 10 
+[ 1009.600234] User 1001 is closing file descriptor: 9 
+[ 1009.606568] User 1001 is opening file: /usr/share/icons/Humanity/actions/16/window-close.svg 
+[ 1009.607792] User 1001 is closing file descriptor: 18 
+[ 1009.799140] User 1001 is opening file: /home/andrew/.local/share/recently-used.xbel 
+[ 1009.799261] User 1001 is closing file descriptor: 26 
+[ 1009.811561] User 1001 is opening file: /usr/share/icons/Humanity/actions/16/window-close.svg 
+[ 1009.812838] User 1001 is closing file descriptor: 18 
+[ 1009.833083] User 1001 is opening file: /home/andrew/.local/share/recently-used.xbel 
+[ 1009.833187] User 1001 is closing file descriptor: 18 
+[ 1009.846822] User 1001 is opening file: /usr/share/icons/Humanity/mimes/22/text-x-csrc.svg 
+[ 1009.851574] User 1001 is closing file descriptor: 18 
+[ 1009.855116] User 1001 is opening file: /usr/share/icons/Humanity/mimes/22/text-x-csrc.svg 
+[ 1009.859648] User 1001 is closing file descriptor: 18 
+[ 1009.863373] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1009.865227] User 1001 is closing file descriptor: 18 
+[ 1009.867177] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1009.869152] User 1001 is closing file descriptor: 18 
+[ 1009.871806] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1009.873798] User 1001 is closing file descriptor: 18 
+[ 1009.876673] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1009.878721] User 1001 is closing file descriptor: 18 
+[ 1009.881226] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1009.883764] User 1001 is closing file descriptor: 18 
+[ 1009.886714] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1009.889129] User 1001 is closing file descriptor: 18 
+[ 1009.891333] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1009.893510] User 1001 is closing file descriptor: 18 
+[ 1009.895513] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1009.897358] User 1001 is closing file descriptor: 18 
+[ 1009.905373] User 1001 is closing file descriptor: 9 
+[ 1009.906945] User 1001 is closing file descriptor: 9 
+[ 1009.909530] User 1001 is closing file descriptor: 9 
+[ 1009.912523] User 1001 is closing file descriptor: 9 
+[ 1009.922351] User 1001 is opening file: /usr/share/icons/Humanity/actions/16/window-close.svg 
+[ 1009.923631] User 1001 is closing file descriptor: 18 
+[ 1009.927727] User 1001 is closing file descriptor: 7 
+[ 1009.963262] User 1001 is closing file descriptor: 8 
+[ 1009.966588] User 1001 is opening file: /home/andrew/.local/share/zeitgeist/fts.index/postlist.tmp 
+[ 1009.969756] User 1001 is closing file descriptor: 7 
+[ 1009.973327] User 1001 is closing file descriptor: 17 
+[ 1009.974678] User 1001 is closing file descriptor: 9 
+[ 1009.977671] User 1001 is opening file: /home/andrew/.local/share/zeitgeist/fts.index/position.tmp 
+[ 1009.978478] User 1001 is closing file descriptor: 7 
+[ 1009.986179] User 1001 is opening file: /proc/filesystems 
+[ 1009.986275] User 1001 is closing file descriptor: 18 
+[ 1009.989806] User 1001 is closing file descriptor: 8 
+[ 1010.001724] User 1001 is closing file descriptor: 9 
+[ 1010.014703] User 1001 is closing file descriptor: 17 
+[ 1010.021244] User 1001 is opening file: /home/andrew/.local/share/zeitgeist/fts.index/termlist.tmp 
+[ 1010.021737] User 1001 is closing file descriptor: 8 
+[ 1010.023851] User 1001 is closing file descriptor: 17 
+[ 1010.024737] User 1001 is opening file: /home/andrew/.local/share/zeitgeist/fts.index/record.tmp 
+[ 1010.026456] User 1001 is closing file descriptor: 17 
+[ 1010.094341] User 1001 is opening file: /var/log/syslog 
+[ 1010.094360] User 1001 is opening file: /var/log/syslog 
+[ 1010.094397] User 1001 is closing file descriptor: 18 
+[ 1010.094855] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1010.096056] User 1001 is closing file descriptor: 18 
+[ 1010.096056] User 1001 is opening file: /usr/share/icons/Humanity/mimes/16/text-plain.svg 
+[ 1010.101637] User 1001 is closing file descriptor: 18 
+[ 1010.143129] User 1001 is closing file descriptor: 8 
+[ 1010.143982] User 1001 is closing file descriptor: 9 
+[ 1010.145318] User 1001 is closing file descriptor: 8 
+[ 1010.168267] User 1001 is closing file descriptor: 8 
+[ 1010.218270] User 1001 is closing file descriptor: 9 
+[ 1010.231516] User 1001 is closing file descriptor: 8 
+[ 1010.240337] User 1001 is closing file descriptor: 8 
+[ 1010.244099] User 1001 is closing file descriptor: 8 
+[ 1010.264664] User 1001 is closing file descriptor: 8 
+[ 1010.272568] User 1001 is closing file descriptor: 8 
+[ 1010.290056] User 1001 is closing file descriptor: 8 
+[ 1010.303851] User 1001 is closing file descriptor: 8 
+[ 1010.322153] User 1001 is closing file descriptor: 8 
+[ 1010.338527] User 1001 is closing file descriptor: 8 
+[ 1010.352113] User 1001 is closing file descriptor: 9 
+[ 1010.381629] User 1001 is closing file descriptor: 8 
+[ 1010.389338] User 1001 is closing file descriptor: 8 
+[ 1010.396234] User 1001 is closing file descriptor: 8 
+[ 1010.401814] User 1001 is closing file descriptor: 9 
+[ 1010.403757] User 1001 is closing file descriptor: 8 
+[ 1010.425050] User 1001 is closing file descriptor: 8 
+[ 1010.733201] User 1001 is closing file descriptor: 9 
+[ 1010.734344] User 1001 is closing file descriptor: 9 
+[ 1010.735264] User 1001 is closing file descriptor: 9 
+[ 1010.736128] User 1001 is closing file descriptor: 9 
+[ 1010.737540] User 1001 is closing file descriptor: 9 
+[ 1010.739233] User 1001 is closing file descriptor: 9 
+[ 1010.740341] User 1001 is closing file descriptor: 9 
+[ 1010.743248] User 1001 is closing file descriptor: 9 
+[ 1010.744195] User 1001 is closing file descriptor: 9 
+[ 1010.746404] User 1001 is closing file descriptor: 9 
+[ 1010.770882] User 1001 is closing file descriptor: 9 
+[ 1010.781892] User 1001 is closing file descriptor: 9 
+[ 1010.789656] User 1001 is closing file descriptor: 9 
+[ 1010.790319] User 1001 is closing file descriptor: 9 
+[ 1010.790864] User 1001 is closing file descriptor: 9 
+[ 1010.800760] User 1001 is closing file descriptor: 9 
+[ 1010.801993] User 1001 is closing file descriptor: 9 
+[ 1010.803828] User 1001 is closing file descriptor: 9 
+[ 1010.804138] User 1001 is closing file descriptor: 9 
+[ 1010.806492] User 1001 is closing file descriptor: 9 
+[ 1010.809713] User 1001 is closing file descriptor: 9 
+[ 1010.812858] User 1001 is closing file descriptor: 9 
+[ 1010.819828] User 1001 is closing file descriptor: 9 
+[ 1010.827811] User 1001 is closing file descriptor: 9 
+[ 1010.831495] User 1001 is closing file descriptor: 9 
+[ 1010.835305] User 1001 is closing file descriptor: 9 
+[ 1010.837051] User 1001 is closing file descriptor: 9 
+[ 1010.841209] User 1001 is closing file descriptor: 9 
+[ 1010.841785] User 1001 is closing file descriptor: 9 
+[ 1010.843446] User 1001 is closing file descriptor: 9 
+[ 1010.844044] User 1001 is closing file descriptor: 9 
+[ 1010.853418] User 1001 is closing file descriptor: 9 
+[ 1010.854044] User 1001 is closing file descriptor: 9 
+[ 1010.858197] User 1001 is closing file descriptor: 9 
+[ 1010.859752] User 1001 is closing file descriptor: 9 
+[ 1010.864024] User 1001 is closing file descriptor: 9 
+[ 1010.865698] User 1001 is closing file descriptor: 9 
+[ 1010.875776] User 1001 is closing file descriptor: 9 
+[ 1010.877059] User 1001 is closing file descriptor: 9 
+[ 1010.878718] User 1001 is closing file descriptor: 9 
+[ 1010.882298] User 1001 is closing file descriptor: 9 
+[ 1010.905278] User 1001 is closing file descriptor: 8 
+[ 1010.905794] User 1001 is closing file descriptor: 7 
+[ 1010.911163] User 1001 is closing file descriptor: 8 
+[ 1010.912060] User 1001 is closing file descriptor: 7 
+[ 1010.914516] User 1001 is closing file descriptor: 9 
+[ 1010.915913] User 1001 is closing file descriptor: 9 
+[ 1010.930225] User 1001 is closing file descriptor: 9 
+[ 1010.953692] User 1001 is closing file descriptor: 9 
+[ 1010.957942] User 1001 is closing file descriptor: 9 
+[ 1010.977293] User 1001 is closing file descriptor: 9 
+[ 1013.531841] User 1001 is closing file descriptor: 3 
+[ 1013.531848] User 1001 is closing file descriptor: 4 
+[ 1013.532058] User 1001 is closing file descriptor: 4 
+[ 1013.532076] User 1001 is closing file descriptor: 3 
+[ 1013.533812] User 1001 is opening file: /etc/ld.so.cache 
+[ 1013.533833] User 1001 is closing file descriptor: 3 
+[ 1013.533887] User 1001 is opening file: /lib/i386-linux-gnu/libutil.so.1 
+[ 1013.533967] User 1001 is closing file descriptor: 3 
+[ 1013.534011] User 1001 is opening file: /lib/i386-linux-gnu/libdl.so.2 
+[ 1013.534072] User 1001 is closing file descriptor: 3 
+[ 1013.534103] User 1001 is opening file: /lib/i386-linux-gnu/libc.so.6 
+[ 1013.534192] User 1001 is closing file descriptor: 3 
+[ 1013.535535] User 1001 is opening file: /usr/lib/locale/locale-archive 
+[ 1013.535622] User 1001 is closing file descriptor: 3 
+[ 1013.535875] User 1001 is closing file descriptor: 3 
+[ 1013.535889] User 1001 is closing file descriptor: 3 
+[ 1013.535942] User 1001 is opening file: /etc/nsswitch.conf 
+[ 1013.536053] User 1001 is closing file descriptor: 3 
+[ 1013.536102] User 1001 is opening file: /etc/ld.so.cache 
+[ 1013.536114] User 1001 is closing file descriptor: 3 
+[ 1013.536172] User 1001 is opening file: /lib/i386-linux-gnu/libnss_compat.so.2 
+[ 1013.536240] User 1001 is closing file descriptor: 3 
+[ 1013.536261] User 1001 is opening file: /lib/i386-linux-gnu/libnsl.so.1 
+[ 1013.536330] User 1001 is closing file descriptor: 3 
+[ 1013.536458] User 1001 is opening file: /etc/ld.so.cache 
+[ 1013.536468] User 1001 is closing file descriptor: 3 
+[ 1013.538462] User 1001 is opening file: /lib/i386-linux-gnu/libnss_nis.so.2 
+[ 1013.538606] User 1001 is closing file descriptor: 3 
+[ 1013.538643] User 1001 is opening file: /lib/i386-linux-gnu/libnss_files.so.2 
+[ 1013.538705] User 1001 is closing file descriptor: 3 
+[ 1013.538830] User 1001 is opening file: /etc/passwd 
+[ 1013.538940] User 1001 is closing file descriptor: 3 
+[ 1013.539315] User 1001 is closing file descriptor: 3 
+[ 1013.539424] User 1001 is opening file: /etc/sudo.conf 
+[ 1013.539447] User 1001 is opening file: /usr/lib/sudo/sudoers.so 
+[ 1013.539513] User 1001 is closing file descriptor: 3 
+[ 1013.539577] User 1001 is opening file: /etc/ld.so.cache 
+[ 1013.539589] User 1001 is closing file descriptor: 3 
+[ 1013.539641] User 1001 is opening file: /lib/i386-linux-gnu/libpam.so.0 
+[ 1013.539704] User 1001 is closing file descriptor: 3 
+[ 1013.539892] User 1001 is opening file: /etc/passwd 
+[ 1013.539927] User 1001 is opening file: /etc/default/nss 
+[ 1013.539990] User 1001 is closing file descriptor: 4 
+[ 1013.540041] User 1001 is opening file: /etc/group 
+[ 1013.541288] User 1001 is opening file: /usr/share/locale/locale.alias 
+[ 1013.541402] User 1001 is closing file descriptor: 5 
+[ 1013.541547] User 1001 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/sudoers.mo 
+[ 1013.541556] User 1001 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/sudoers.mo 
+[ 1013.541561] User 1001 is opening file: /usr/share/locale/en_US/LC_MESSAGES/sudoers.mo 
+[ 1013.541566] User 1001 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/sudoers.mo 
+[ 1013.541570] User 1001 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/sudoers.mo 
+[ 1013.541575] User 1001 is opening file: /usr/share/locale/en/LC_MESSAGES/sudoers.mo 
+[ 1013.541581] User 1001 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/sudoers.mo 
+[ 1013.541586] User 1001 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/sudoers.mo 
+[ 1013.541590] User 1001 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/sudoers.mo 
+[ 1013.541596] User 1001 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/sudoers.mo 
+[ 1013.541601] User 1001 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/sudoers.mo 
+[ 1013.541606] User 1001 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/sudoers.mo 
+[ 1013.541736] User 1001 is closing file descriptor: 5 
+[ 1013.541749] User 1001 is closing file descriptor: 5 
+[ 1013.541762] User 1001 is opening file: /etc/group 
+[ 1013.541824] User 1001 is closing file descriptor: 5 
+[ 1013.541833] User 1001 is opening file: /etc/group 
+[ 1013.541859] User 1001 is closing file descriptor: 5 
+[ 1013.541868] User 1001 is opening file: /etc/group 
+[ 1013.541899] User 1001 is closing file descriptor: 5 
+[ 1013.541907] User 1001 is opening file: /etc/group 
+[ 1013.541946] User 1001 is closing file descriptor: 5 
+[ 1013.541954] User 1001 is opening file: /etc/group 
+[ 1013.541997] User 1001 is closing file descriptor: 5 
+[ 1013.542027] User 1001 is opening file: /etc/localtime 
+[ 1013.542076] User 1001 is closing file descriptor: 5 
+[ 1013.542099] User 1001 is opening file: /etc/passwd 
+[ 1013.542146] User 1001 is closing file descriptor: 5 
+[ 1013.543097] User 1001 is opening file: /proc/sys/kernel/ngroups_max 
+[ 1013.543117] User 1001 is closing file descriptor: 6 
+[ 1013.543176] User 1001 is opening file: /etc/group 
+[ 1013.543233] User 1001 is closing file descriptor: 6 
+[ 1013.543257] User 1001 is opening file: /etc/group 
+[ 1013.543284] User 1001 is closing file descriptor: 6 
+[ 1013.543492] User 1001 is opening file: /etc/pam.d/sudo 
+[ 1013.543715] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_env.so 
+[ 1013.543856] User 1001 is closing file descriptor: 7 
+[ 1013.543957] User 1001 is opening file: /etc/pam.d/common-auth 
+[ 1013.544009] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_unix.so 
+[ 1013.544081] User 1001 is closing file descriptor: 8 
+[ 1013.544099] User 1001 is opening file: /etc/ld.so.cache 
+[ 1013.544111] User 1001 is closing file descriptor: 8 
+[ 1013.544162] User 1001 is opening file: /lib/i386-linux-gnu/libcrypt.so.1 
+[ 1013.544162] User 1001 is closing file descriptor: 8 
+[ 1013.544162] User 1001 is opening file: /lib/i386-linux-gnu/libselinux.so.1 
+[ 1013.544162] User 1001 is closing file descriptor: 8 
+[ 1013.547063] User 1001 is opening file: /proc/filesystems 
+[ 1013.547141] User 1001 is closing file descriptor: 8 
+[ 1013.547239] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_deny.so 
+[ 1013.547308] User 1001 is closing file descriptor: 8 
+[ 1013.547352] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_permit.so 
+[ 1013.547425] User 1001 is closing file descriptor: 8 
+[ 1013.547475] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_cap.so 
+[ 1013.547594] User 1001 is closing file descriptor: 8 
+[ 1013.547615] User 1001 is opening file: /etc/ld.so.cache 
+[ 1013.547629] User 1001 is closing file descriptor: 8 
+[ 1013.547689] User 1001 is opening file: /lib/i386-linux-gnu/libcap.so.2 
+[ 1013.547754] User 1001 is closing file descriptor: 8 
+[ 1013.547870] User 1001 is closing file descriptor: 7 
+[ 1013.547893] User 1001 is opening file: /etc/pam.d/common-account 
+[ 1013.547944] User 1001 is closing file descriptor: 7 
+[ 1013.547965] User 1001 is opening file: /etc/pam.d/common-session-noninteractive 
+[ 1013.548016] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_umask.so 
+[ 1013.548079] User 1001 is closing file descriptor: 8 
+[ 1013.548143] User 1001 is closing file descriptor: 7 
+[ 1013.548160] User 1001 is closing file descriptor: 6 
+[ 1013.548174] User 1001 is opening file: /etc/pam.d/other 
+[ 1013.548210] User 1001 is opening file: /etc/pam.d/common-auth 
+[ 1013.548270] User 1001 is closing file descriptor: 7 
+[ 1013.548290] User 1001 is opening file: /etc/pam.d/common-account 
+[ 1013.548331] User 1001 is closing file descriptor: 7 
+[ 1013.548351] User 1001 is opening file: /etc/pam.d/common-password 
+[ 1013.548402] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_gnome_keyring.so 
+[ 1013.548431] User 1001 is opening file: /lib/security/pam_gnome_keyring.so 
+[ 1013.548491] User 1001 is closing file descriptor: 8 
+[ 1013.550610] User 1001 is closing file descriptor: 7 
+[ 1013.550648] User 1001 is opening file: /etc/pam.d/common-session 
+[ 1013.550737] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_ck_connector.so 
+[ 1013.550753] User 1001 is opening file: /lib/security/pam_ck_connector.so 
+[ 1013.550817] User 1001 is closing file descriptor: 8 
+[ 1013.550836] User 1001 is opening file: /etc/ld.so.cache 
+[ 1013.550848] User 1001 is closing file descriptor: 8 
+[ 1013.550911] User 1001 is opening file: /lib/i386-linux-gnu/libdbus-1.so.3 
+[ 1013.550976] User 1001 is closing file descriptor: 8 
+[ 1013.551022] User 1001 is opening file: /usr/lib/libck-connector.so.0 
+[ 1013.551092] User 1001 is closing file descriptor: 8 
+[ 1013.551141] User 1001 is opening file: /lib/i386-linux-gnu/libpthread.so.0 
+[ 1013.551213] User 1001 is closing file descriptor: 8 
+[ 1013.551241] User 1001 is opening file: /lib/i386-linux-gnu/librt.so.1 
+[ 1013.551301] User 1001 is closing file descriptor: 8 
+[ 1013.551905] User 1001 is closing file descriptor: 7 
+[ 1013.551930] User 1001 is closing file descriptor: 6 
+[ 1013.551987] User 1001 is opening file: /var/lib/sudo/andrew/1 
+[ 1013.552024] User 1001 is closing file descriptor: 6 
+[ 1013.552034] User 1001 is opening file: /proc/stat 
+[ 1013.552218] User 1001 is opening file: /var/lib/sudo/andrew/1 
+[ 1013.552256] User 1001 is closing file descriptor: 7 
+[ 1013.553583] User 1001 is closing file descriptor: 7 
+[ 1013.553631] User 1001 is closing file descriptor: 5 
+[ 1013.553698] User 1001 is closing file descriptor: 3 
+[ 1013.553710] User 1001 is closing file descriptor: 4 
+[ 1013.553733] User 1001 is opening file: /etc/passwd 
+[ 1013.553747] User 1001 is opening file: /etc/group 
+[ 1013.553759] User 1001 is opening file: /etc/passwd 
+[ 1013.553791] User 1001 is closing file descriptor: 5 
+[ 1013.553802] User 1001 is closing file descriptor: 3 
+[ 1013.553805] User 1001 is closing file descriptor: 4 
+[ 1013.553867] User 1001 is opening file: /etc/passwd 
+[ 1013.553893] User 1001 is closing file descriptor: 8 
+[ 1013.553920] User 1001 is opening file: /etc/security/pam_env.conf 
+[ 1013.553962] User 1001 is closing file descriptor: 8 
+[ 1013.553978] User 1001 is opening file: /etc/environment 
+[ 1013.554009] User 1001 is closing file descriptor: 8 
+[ 1013.554026] User 1001 is opening file: /etc/security/pam_env.conf 
+[ 1013.554061] User 1001 is closing file descriptor: 8 
+[ 1013.554076] User 1001 is opening file: /etc/default/locale 
+[ 1013.554103] User 1001 is closing file descriptor: 8 
+[ 1013.554154] User 1001 is opening file: /etc/security/capability.conf 
+[ 1013.554185] User 1001 is closing file descriptor: 8 
+[ 1013.554235] User 1001 is opening file: /etc/login.defs 
+[ 1013.554299] User 1001 is closing file descriptor: 8 
+[ 1013.554315] User 1001 is opening file: /etc/login.defs 
+[ 1013.554384] User 1001 is closing file descriptor: 8 
+[ 1013.554408] User 1001 is opening file: /etc/passwd 
+[ 1013.554435] User 1001 is closing file descriptor: 8 
+[ 1013.554501] User 1001 is opening file: /var/run/utmp 
+[ 1013.554655] User 1001 is closing file descriptor: 8 
+[ 1013.555359] User 1001 is closing file descriptor: 4 
+[ 1013.555716] User 1001 is closing file descriptor: 3 
+[ 1013.555719] User 1001 is closing file descriptor: 5 
+[ 1013.555721] User 1001 is closing file descriptor: 7 
+[ 1013.555850] User 1001 is opening file: /etc/passwd 
+[ 1013.557839] User 1001 is closing file descriptor: 3 
+[ 1013.765504] User 1001 is opening file: /var/log/syslog 
+[ 1013.765544] User 1001 is opening file: /var/log/syslog 
+[ 1013.765580] User 1001 is closing file descriptor: 26 
+[ 1013.765788] User 1001 is opening file: /proc/filesystems 
+[ 1013.765870] User 1001 is closing file descriptor: 26 
+[ 1013.765992] User 1001 is opening file: /sys/devices/pci0000:00/0000:00:10.0/host2/target2:0:0/2:0:0:0/block/sda/sda1/uevent 
+[ 1013.766040] User 1001 is closing file descriptor: 26 
+[ 1013.766074] User 1001 is opening file: /run/udev/data/b8:1 
+[ 1013.766151] User 1001 is closing file descriptor: 26 
+[ 1013.774779] User 1001 is opening file: /proc/filesystems 
+[ 1013.774873] User 1001 is closing file descriptor: 26 
+[ 1013.775004] User 1001 is opening file: /sys/devices/pci0000:00/0000:00:10.0/host2/target2:0:0/2:0:0:0/block/sda/sda1/uevent 
+[ 1013.775050] User 1001 is closing file descriptor: 26 
+[ 1013.775084] User 1001 is opening file: /run/udev/data/b8:1 
+[ 1013.775163] User 1001 is closing file descriptor: 26 
+[ 1013.784796] User 1001 is opening file: /var/log/syslog 
+[ 1013.797305] User 1001 is closing file descriptor: 26 
+[ 1013.797582] User 1001 is opening file: /var/log/kern.log 
+[ 1013.797802] User 1001 is closing file descriptor: 26 
+[ 1013.867502] User 1001 is opening file: /home/andrew/.local/share/applications/gedit.desktop 
+[ 1013.867596] User 1001 is opening file: /usr/share/ubuntu-2d/applications/gedit.desktop 
+[ 1013.867624] User 1001 is opening file: /usr/share/gnome/applications/gedit.desktop 
+[ 1013.867650] User 1001 is opening file: /usr/local/share/applications/gedit.desktop 
+[ 1013.867675] User 1001 is opening file: /usr/share/applications/gedit.desktop 
+[ 1013.867786] User 1001 is closing file descriptor: 26 
+[ 1013.869417] User 1001 is opening file: /usr/share/icons/Humanity/apps/16/accessories-text-editor.svg 
+[ 1013.878378] User 1001 is closing file descriptor: 26 
+[ 1013.887443] User 1001 is opening file: /usr/share/icons/Humanity/apps/16/accessories-text-editor.svg 
+[ 1013.897242] User 1001 is closing file descriptor: 26 
+[ 1013.909445] User 1001 is opening file: /home/andrew/.local/share/applications/gedit.desktop 
+[ 1013.909499] User 1001 is opening file: /usr/share/ubuntu-2d/applications/gedit.desktop 
+[ 1013.909635] User 1001 is opening file: /usr/share/gnome/applications/gedit.desktop 
+[ 1013.909715] User 1001 is opening file: /usr/local/share/applications/gedit.desktop 
+[ 1013.909744] User 1001 is opening file: /usr/share/applications/gedit.desktop 
+[ 1013.909940] User 1001 is closing file descriptor: 26 
+[ 1013.910315] User 1001 is opening file: /home/andrew/.local/share/applications/gedit.desktop 
+[ 1013.910345] User 1001 is opening file: /usr/share/ubuntu-2d/applications/gedit.desktop 
+[ 1013.910370] User 1001 is opening file: /usr/share/gnome/applications/gedit.desktop 
+[ 1013.910392] User 1001 is opening file: /usr/local/share/applications/gedit.desktop 
+[ 1013.910415] User 1001 is opening file: /usr/share/applications/gedit.desktop 
+[ 1013.910491] User 1001 is closing file descriptor: 26 
+[ 1013.910866] User 1001 is opening file: /home/andrew/.local/share/applications/gedit.desktop 
+[ 1013.910898] User 1001 is opening file: /usr/share/ubuntu-2d/applications/gedit.desktop 
+[ 1013.910920] User 1001 is opening file: /usr/share/gnome/applications/gedit.desktop 
+[ 1013.910973] User 1001 is opening file: /usr/local/share/applications/gedit.desktop 
+[ 1013.911009] User 1001 is opening file: /usr/share/applications/gedit.desktop 
+[ 1013.911129] User 1001 is closing file descriptor: 26 
+[ 1013.937311] User 1001 is closing file descriptor: 8 
+[ 1013.938331] User 1001 is closing file descriptor: 9 
+[ 1014.433207] User 1001 is opening file: /proc/2792/status 
+[ 1014.433274] User 1001 is closing file descriptor: 12 
+[ 1014.433289] User 1001 is opening file: /proc/2792/stat 
+[ 1014.433311] User 1001 is closing file descriptor: 12 
+[ 1014.433318] User 1001 is opening file: /proc/2791/status 
+[ 1014.433347] User 1001 is closing file descriptor: 12 
+[ 1014.433353] User 1001 is opening file: /proc/2791/stat 
+[ 1014.433367] User 1001 is closing file descriptor: 12 
+[ 1014.433372] User 1001 is opening file: /proc/2296/status 
+[ 1014.433400] User 1001 is closing file descriptor: 12 
+[ 1014.433405] User 1001 is opening file: /proc/2296/stat 
+[ 1014.433422] User 1001 is closing file descriptor: 12 
+[ 1014.435867] User 1001 is closing file descriptor: 9 
+[ 1014.436205] User 1001 is closing file descriptor: 9 
+[ 1014.445027] User 1001 is opening file: /proc/2792/cmdline 
+[ 1014.447971] User 1001 is closing file descriptor: 12 
+[ 1014.462279] User 1001 is closing file descriptor: 9 
+[ 1014.469094] User 1001 is closing file descriptor: 9 
+[ 1014.474974] User 1001 is closing file descriptor: 9 
+[ 1014.483883] User 1001 is closing file descriptor: 9 
+[ 1014.485718] User 1001 is closing file descriptor: 9 
+[ 1014.537741] User 1001 is closing file descriptor: 9 
+[ 1014.540257] User 1001 is closing file descriptor: 9 
+[ 1014.544297] User 1001 is closing file descriptor: 9 
+[ 1014.547327] User 1001 is closing file descriptor: 9 
+[ 1014.551385] User 1001 is closing file descriptor: 9 
+[ 1014.589977] User 1001 is closing file descriptor: 9 
+[ 1014.619101] User 1001 is closing file descriptor: 9 
+[ 1014.619411] User 1001 is closing file descriptor: 9 
+[ 1014.636131] User 1001 is closing file descriptor: 9 
+[ 1014.644003] User 1001 is closing file descriptor: 9 
+[ 1014.653972] User 1001 is closing file descriptor: 9 
+[ 1014.654984] User 1001 is closing file descriptor: 9 
+[ 1014.673817] User 1001 is closing file descriptor: 9 
+[ 1014.674504] User 1001 is closing file descriptor: 9 
+[ 1014.675680] User 1001 is closing file descriptor: 9 
+[ 1014.676035] User 1001 is closing file descriptor: 9 
+[ 1014.679343] User 1001 is closing file descriptor: 9 
+[ 1014.679966] User 1001 is closing file descriptor: 9 
+[ 1014.681239] User 1001 is closing file descriptor: 9 
+[ 1014.690130] User 1001 is closing file descriptor: 9 
+[ 1014.690745] User 1001 is closing file descriptor: 9 
+[ 1014.695299] User 1001 is closing file descriptor: 9 
+[ 1014.697617] User 1001 is closing file descriptor: 9 
+[ 1014.712917] User 1001 is closing file descriptor: 9 
+[ 1014.713583] User 1001 is closing file descriptor: 9 
+[ 1014.727300] User 1001 is closing file descriptor: 9 
+[ 1014.729898] User 1001 is closing file descriptor: 9 
+[ 1014.730455] User 1001 is closing file descriptor: 9 
+[ 1014.742450] User 1001 is closing file descriptor: 9 
+[ 1014.743099] User 1001 is closing file descriptor: 9 
+[ 1014.745474] User 1001 is closing file descriptor: 9 
+[ 1014.746794] User 1001 is closing file descriptor: 9 
+[ 1014.757003] User 1001 is closing file descriptor: 9 
+[ 1014.759472] User 1001 is closing file descriptor: 9 
+[ 1014.762934] User 1001 is closing file descriptor: 7 
+[ 1014.763291] User 1001 is closing file descriptor: 8 
+[ 1014.763865] User 1001 is closing file descriptor: 9 
+[ 1014.770236] User 1001 is closing file descriptor: 9 
+[ 1014.772292] User 1001 is closing file descriptor: 9 
+[ 1014.773394] User 1001 is closing file descriptor: 9 
+[ 1014.774529] User 1001 is closing file descriptor: 9 
+[ 1014.775726] User 1001 is closing file descriptor: 9 
+[ 1014.776354] User 1001 is closing file descriptor: 9 
+[ 1014.782927] User 1001 is closing file descriptor: 9 
+[ 1014.784345] User 1001 is closing file descriptor: 9 
+[ 1014.797764] User 1001 is closing file descriptor: 9 
+[ 1014.801668] User 1001 is closing file descriptor: 9 
+[ 1014.805838] User 1001 is closing file descriptor: 9 
+[ 1014.823925] User 1001 is closing file descriptor: 9 
+[ 1014.844052] User 1001 is closing file descriptor: 9 
+[ 1014.858074] User 1001 is closing file descriptor: 9 
+[ 1014.861967] User 1001 is closing file descriptor: 8 
+[ 1014.865477] User 1001 is closing file descriptor: 7 
+[ 1014.867285] User 1001 is closing file descriptor: 9 
+[ 1014.873248] User 1001 is closing file descriptor: 9 
+[ 1014.878268] User 1001 is closing file descriptor: 9 
+[ 1014.883348] User 1001 is closing file descriptor: 9 
+[ 1014.884697] User 1001 is closing file descriptor: 9 
+[ 1014.892012] User 1001 is closing file descriptor: 9 
+[ 1015.901141] User 1001 is closing file descriptor: 9 
+[ 1015.902281] User 1001 is closing file descriptor: 9 
+[ 1015.918324] User 1001 is closing file descriptor: 9 
+[ 1015.944302] User 1001 is closing file descriptor: 9 
+[ 1015.947071] User 1001 is closing file descriptor: 9 
+[ 1015.961227] User 1001 is closing file descriptor: 9 
+[ 1015.961523] User 1001 is closing file descriptor: 9 
+[ 1015.978423] User 1001 is closing file descriptor: 9 
+[ 1015.981353] User 1001 is closing file descriptor: 9 
+[ 1015.982066] User 1001 is closing file descriptor: 9 
+[ 1015.984081] User 1001 is closing file descriptor: 9 
+[ 1015.990190] User 1001 is closing file descriptor: 9 
+[ 1015.991502] User 1001 is closing file descriptor: 9 
+[ 1015.996184] User 1001 is closing file descriptor: 9 
+[ 1016.005580] User 1001 is closing file descriptor: 9 
+[ 1016.009632] User 1001 is closing file descriptor: 9 
+[ 1016.014963] User 1001 is closing file descriptor: 9 
+[ 1016.021256] User 1001 is closing file descriptor: 9 
+[ 1016.030033] User 1001 is closing file descriptor: 9 
+[ 1016.041603] User 1001 is closing file descriptor: 9 
+[ 1016.044487] User 1001 is closing file descriptor: 9 
+[ 1016.047459] User 1001 is closing file descriptor: 9 
+[ 1016.050671] User 1001 is closing file descriptor: 9 
+[ 1016.060136] User 1001 is closing file descriptor: 9 
+[ 1016.062451] User 1001 is closing file descriptor: 9 
+[ 1016.063854] User 1001 is closing file descriptor: 9 
+[ 1016.064365] User 1001 is closing file descriptor: 9 
+[ 1016.069247] User 1001 is closing file descriptor: 9 
+[ 1016.070316] User 1001 is closing file descriptor: 9 
+[ 1016.071207] User 1001 is closing file descriptor: 8 
+[ 1016.071963] User 1001 is closing file descriptor: 7 
+[ 1016.074363] User 1001 is closing file descriptor: 9 
+[ 1016.075694] User 1001 is closing file descriptor: 9 
+[ 1016.082977] User 1001 is closing file descriptor: 9 
+[ 1016.088527] User 1001 is closing file descriptor: 9 
+[ 1016.098883] User 1001 is closing file descriptor: 9 
+[ 1016.110084] User 1001 is closing file descriptor: 9 
+[ 1016.113476] User 1001 is closing file descriptor: 9 
+[ 1016.115661] User 1001 is closing file descriptor: 9 
+[ 1016.124090] User 1001 is closing file descriptor: 8 
+[ 1016.128032] User 1001 is closing file descriptor: 7 
+[ 1016.170049] User 1001 is closing file descriptor: 9 
+[ 1016.173010] User 1001 is closing file descriptor: 9 
+[ 1016.174365] User 1001 is closing file descriptor: 9 
+[ 1016.564253] User 1001 is opening file: /proc/filesystems 
+[ 1016.564348] User 1001 is closing file descriptor: 26 
+[ 1016.564493] User 1001 is opening file: /sys/devices/pci0000:00/0000:00:10.0/host2/target2:0:0/2:0:0:0/block/sda/sda1/uevent 
+[ 1016.564557] User 1001 is closing file descriptor: 26 
+[ 1016.564602] User 1001 is opening file: /run/udev/data/b8:1 
+[ 1016.564693] User 1001 is closing file descriptor: 26 
+[ 1016.570353] User 1001 is opening file: /var/log/auth.log 
+[ 1016.579432] User 1001 is closing file descriptor: 26 
+[ 1016.666145] User 1001 is opening file: /home/andrew/.local/share/applications/gedit.desktop 
+[ 1016.666227] User 1001 is opening file: /usr/share/ubuntu-2d/applications/gedit.desktop 
+[ 1016.666255] User 1001 is opening file: /usr/share/gnome/applications/gedit.desktop 
+[ 1016.666279] User 1001 is opening file: /usr/local/share/applications/gedit.desktop 
+[ 1016.666304] User 1001 is opening file: /usr/share/applications/gedit.desktop 
+[ 1016.666424] User 1001 is closing file descriptor: 26 
+[ 1016.667401] User 1001 is opening file: /usr/share/icons/Humanity/apps/16/accessories-text-editor.svg 
+[ 1016.673342] User 1001 is closing file descriptor: 26 
+[ 1016.677451] User 1001 is opening file: /usr/share/icons/Humanity/apps/16/accessories-text-editor.svg 
+[ 1016.683271] User 1001 is closing file descriptor: 26 
+[ 1016.692515] User 1001 is opening file: /home/andrew/.local/share/applications/gedit.desktop 
+[ 1016.692572] User 1001 is opening file: /usr/share/ubuntu-2d/applications/gedit.desktop 
+[ 1016.692600] User 1001 is opening file: /usr/share/gnome/applications/gedit.desktop 
+[ 1016.692626] User 1001 is opening file: /usr/local/share/applications/gedit.desktop 
+[ 1016.692650] User 1001 is opening file: /usr/share/applications/gedit.desktop 
+[ 1016.692772] User 1001 is closing file descriptor: 26 
+[ 1016.694267] User 1001 is opening file: /home/andrew/.local/share/applications/gedit.desktop 
+[ 1016.694395] User 1001 is opening file: /usr/share/ubuntu-2d/applications/gedit.desktop 
+[ 1016.694494] User 1001 is opening file: /usr/share/gnome/applications/gedit.desktop 
+[ 1016.694525] User 1001 is opening file: /usr/local/share/applications/gedit.desktop 
+[ 1016.694550] User 1001 is opening file: /usr/share/applications/gedit.desktop 
+[ 1016.694733] User 1001 is closing file descriptor: 26 
+[ 1016.701562] User 1001 is opening file: /home/andrew/.local/share/applications/gedit.desktop 
+[ 1016.701618] User 1001 is opening file: /usr/share/ubuntu-2d/applications/gedit.desktop 
+[ 1016.701644] User 1001 is opening file: /usr/share/gnome/applications/gedit.desktop 
+[ 1016.701668] User 1001 is opening file: /usr/local/share/applications/gedit.desktop 
+[ 1016.701692] User 1001 is opening file: /usr/share/applications/gedit.desktop 
+[ 1016.701787] User 1001 is closing file descriptor: 26 
+[ 1016.710269] User 1001 is closing file descriptor: 8 
+[ 1016.711371] User 1001 is closing file descriptor: 9 
+[ 1018.118278] User 1001 is closing file descriptor: 3 
+[ 1018.118284] User 1001 is closing file descriptor: 4 
+[ 1018.118498] User 1001 is closing file descriptor: 4 
+[ 1018.118517] User 1001 is closing file descriptor: 3 
+[ 1018.119463] User 1001 is opening file: /etc/ld.so.cache 
+[ 1018.119478] User 1001 is closing file descriptor: 3 
+[ 1018.119530] User 1001 is opening file: /lib/i386-linux-gnu/libutil.so.1 
+[ 1018.119651] User 1001 is closing file descriptor: 3 
+[ 1018.119695] User 1001 is opening file: /lib/i386-linux-gnu/libdl.so.2 
+[ 1018.119776] User 1001 is closing file descriptor: 3 
+[ 1018.119808] User 1001 is opening file: /lib/i386-linux-gnu/libc.so.6 
+[ 1018.119894] User 1001 is closing file descriptor: 3 
+[ 1018.122464] User 1001 is opening file: /usr/lib/locale/locale-archive 
+[ 1018.122562] User 1001 is closing file descriptor: 3 
+[ 1018.122825] User 1001 is closing file descriptor: 3 
+[ 1018.122840] User 1001 is closing file descriptor: 3 
+[ 1018.122894] User 1001 is opening file: /etc/nsswitch.conf 
+[ 1018.123006] User 1001 is closing file descriptor: 3 
+[ 1018.123054] User 1001 is opening file: /etc/ld.so.cache 
+[ 1018.123066] User 1001 is closing file descriptor: 3 
+[ 1018.123123] User 1001 is opening file: /lib/i386-linux-gnu/libnss_compat.so.2 
+[ 1018.123237] User 1001 is closing file descriptor: 3 
+[ 1018.123258] User 1001 is opening file: /lib/i386-linux-gnu/libnsl.so.1 
+[ 1018.123329] User 1001 is closing file descriptor: 3 
+[ 1018.123461] User 1001 is opening file: /etc/ld.so.cache 
+[ 1018.123472] User 1001 is closing file descriptor: 3 
+[ 1018.123521] User 1001 is opening file: /lib/i386-linux-gnu/libnss_nis.so.2 
+[ 1018.123583] User 1001 is closing file descriptor: 3 
+[ 1018.123609] User 1001 is opening file: /lib/i386-linux-gnu/libnss_files.so.2 
+[ 1018.123667] User 1001 is closing file descriptor: 3 
+[ 1018.123771] User 1001 is opening file: /etc/passwd 
+[ 1018.123874] User 1001 is closing file descriptor: 3 
+[ 1018.125748] User 1001 is closing file descriptor: 3 
+[ 1018.125878] User 1001 is opening file: /etc/sudo.conf 
+[ 1018.125918] User 1001 is opening file: /usr/lib/sudo/sudoers.so 
+[ 1018.126002] User 1001 is closing file descriptor: 3 
+[ 1018.126025] User 1001 is opening file: /etc/ld.so.cache 
+[ 1018.126037] User 1001 is closing file descriptor: 3 
+[ 1018.126093] User 1001 is opening file: /lib/i386-linux-gnu/libpam.so.0 
+[ 1018.126202] User 1001 is closing file descriptor: 3 
+[ 1018.126405] User 1001 is opening file: /etc/passwd 
+[ 1018.126439] User 1001 is opening file: /etc/default/nss 
+[ 1018.126501] User 1001 is closing file descriptor: 4 
+[ 1018.126551] User 1001 is opening file: /etc/group 
+[ 1018.126645] User 1001 is opening file: /usr/share/locale/locale.alias 
+[ 1018.126728] User 1001 is closing file descriptor: 5 
+[ 1018.126838] User 1001 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/sudoers.mo 
+[ 1018.126847] User 1001 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/sudoers.mo 
+[ 1018.126852] User 1001 is opening file: /usr/share/locale/en_US/LC_MESSAGES/sudoers.mo 
+[ 1018.126857] User 1001 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/sudoers.mo 
+[ 1018.126862] User 1001 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/sudoers.mo 
+[ 1018.126866] User 1001 is opening file: /usr/share/locale/en/LC_MESSAGES/sudoers.mo 
+[ 1018.126873] User 1001 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/sudoers.mo 
+[ 1018.126879] User 1001 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/sudoers.mo 
+[ 1018.126884] User 1001 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/sudoers.mo 
+[ 1018.126890] User 1001 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/sudoers.mo 
+[ 1018.126896] User 1001 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/sudoers.mo 
+[ 1018.126901] User 1001 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/sudoers.mo 
+[ 1018.127008] User 1001 is closing file descriptor: 5 
+[ 1018.127019] User 1001 is closing file descriptor: 5 
+[ 1018.127027] User 1001 is opening file: /etc/group 
+[ 1018.127081] User 1001 is closing file descriptor: 5 
+[ 1018.127145] User 1001 is opening file: /etc/group 
+[ 1018.127389] User 1001 is closing file descriptor: 5 
+[ 1018.127400] User 1001 is opening file: /etc/group 
+[ 1018.127432] User 1001 is closing file descriptor: 5 
+[ 1018.127441] User 1001 is opening file: /etc/group 
+[ 1018.127480] User 1001 is closing file descriptor: 5 
+[ 1018.127488] User 1001 is opening file: /etc/group 
+[ 1018.127532] User 1001 is closing file descriptor: 5 
+[ 1018.127561] User 1001 is opening file: /etc/localtime 
+[ 1018.127610] User 1001 is closing file descriptor: 5 
+[ 1018.127632] User 1001 is opening file: /etc/passwd 
+[ 1018.127677] User 1001 is closing file descriptor: 5 
+[ 1018.130717] User 1001 is opening file: /proc/sys/kernel/ngroups_max 
+[ 1018.130735] User 1001 is closing file descriptor: 6 
+[ 1018.130791] User 1001 is opening file: /etc/group 
+[ 1018.130854] User 1001 is closing file descriptor: 6 
+[ 1018.130875] User 1001 is opening file: /etc/group 
+[ 1018.130904] User 1001 is closing file descriptor: 6 
+[ 1018.131119] User 1001 is opening file: /etc/pam.d/sudo 
+[ 1018.131196] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_env.so 
+[ 1018.131262] User 1001 is closing file descriptor: 7 
+[ 1018.131347] User 1001 is opening file: /etc/pam.d/common-auth 
+[ 1018.131393] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_unix.so 
+[ 1018.131725] User 1001 is closing file descriptor: 8 
+[ 1018.131742] User 1001 is opening file: /etc/ld.so.cache 
+[ 1018.131755] User 1001 is closing file descriptor: 8 
+[ 1018.131817] User 1001 is opening file: /lib/i386-linux-gnu/libcrypt.so.1 
+[ 1018.131901] User 1001 is closing file descriptor: 8 
+[ 1018.131947] User 1001 is opening file: /lib/i386-linux-gnu/libselinux.so.1 
+[ 1018.132009] User 1001 is closing file descriptor: 8 
+[ 1018.133539] User 1001 is opening file: /proc/filesystems 
+[ 1018.133613] User 1001 is closing file descriptor: 8 
+[ 1018.133701] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_deny.so 
+[ 1018.133763] User 1001 is closing file descriptor: 8 
+[ 1018.133805] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_permit.so 
+[ 1018.133902] User 1001 is closing file descriptor: 8 
+[ 1018.133951] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_cap.so 
+[ 1018.134011] User 1001 is closing file descriptor: 8 
+[ 1018.134028] User 1001 is opening file: /etc/ld.so.cache 
+[ 1018.134039] User 1001 is closing file descriptor: 8 
+[ 1018.134100] User 1001 is opening file: /lib/i386-linux-gnu/libcap.so.2 
+[ 1018.134194] User 1001 is closing file descriptor: 8 
+[ 1018.134299] User 1001 is closing file descriptor: 7 
+[ 1018.134321] User 1001 is opening file: /etc/pam.d/common-account 
+[ 1018.134369] User 1001 is closing file descriptor: 7 
+[ 1018.134390] User 1001 is opening file: /etc/pam.d/common-session-noninteractive 
+[ 1018.134441] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_umask.so 
+[ 1018.134501] User 1001 is closing file descriptor: 8 
+[ 1018.134564] User 1001 is closing file descriptor: 7 
+[ 1018.134581] User 1001 is closing file descriptor: 6 
+[ 1018.134595] User 1001 is opening file: /etc/pam.d/other 
+[ 1018.134629] User 1001 is opening file: /etc/pam.d/common-auth 
+[ 1018.134689] User 1001 is closing file descriptor: 7 
+[ 1018.134710] User 1001 is opening file: /etc/pam.d/common-account 
+[ 1018.134750] User 1001 is closing file descriptor: 7 
+[ 1018.134771] User 1001 is opening file: /etc/pam.d/common-password 
+[ 1018.134821] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_gnome_keyring.so 
+[ 1018.134850] User 1001 is opening file: /lib/security/pam_gnome_keyring.so 
+[ 1018.134910] User 1001 is closing file descriptor: 8 
+[ 1018.135002] User 1001 is closing file descriptor: 7 
+[ 1018.135023] User 1001 is opening file: /etc/pam.d/common-session 
+[ 1018.135118] User 1001 is opening file: /lib/i386-linux-gnu/security/pam_ck_connector.so 
+[ 1018.135131] User 1001 is opening file: /lib/security/pam_ck_connector.so 
+[ 1018.135236] User 1001 is closing file descriptor: 8 
+[ 1018.135254] User 1001 is opening file: /etc/ld.so.cache 
+[ 1018.135266] User 1001 is closing file descriptor: 8 
+[ 1018.135323] User 1001 is opening file: /lib/i386-linux-gnu/libdbus-1.so.3 
+[ 1018.135385] User 1001 is closing file descriptor: 8 
+[ 1018.135426] User 1001 is opening file: /usr/lib/libck-connector.so.0 
+[ 1018.135496] User 1001 is closing file descriptor: 8 
+[ 1018.135545] User 1001 is opening file: /lib/i386-linux-gnu/libpthread.so.0 
+[ 1018.135616] User 1001 is closing file descriptor: 8 
+[ 1018.135645] User 1001 is opening file: /lib/i386-linux-gnu/librt.so.1 
+[ 1018.135705] User 1001 is closing file descriptor: 8 
+[ 1018.138427] User 1001 is closing file descriptor: 7 
+[ 1018.138453] User 1001 is closing file descriptor: 6 
+[ 1018.138509] User 1001 is opening file: /var/lib/sudo/andrew/1 
+[ 1018.138536] User 1001 is closing file descriptor: 6 
+[ 1018.138545] User 1001 is opening file: /proc/stat 
+[ 1018.138726] User 1001 is opening file: /var/lib/sudo/andrew/1 
+[ 1018.138757] User 1001 is closing file descriptor: 7 
+[ 1018.138983] User 1001 is closing file descriptor: 7 
+[ 1018.139014] User 1001 is closing file descriptor: 5 
+[ 1018.139072] User 1001 is closing file descriptor: 3 
+[ 1018.139083] User 1001 is closing file descriptor: 4 
+[ 1018.139103] User 1001 is opening file: /etc/passwd 
+[ 1018.139115] User 1001 is opening file: /etc/group 
+[ 1018.139127] User 1001 is opening file: /etc/passwd 
+[ 1018.139184] User 1001 is closing file descriptor: 5 
+[ 1018.139195] User 1001 is closing file descriptor: 3 
+[ 1018.139199] User 1001 is closing file descriptor: 4 
+[ 1018.139252] User 1001 is opening file: /etc/passwd 
+[ 1018.139278] User 1001 is closing file descriptor: 8 
+[ 1018.139303] User 1001 is opening file: /etc/security/pam_env.conf 
+[ 1018.139344] User 1001 is closing file descriptor: 8 
+[ 1018.139359] User 1001 is opening file: /etc/environment 
+[ 1018.139415] User 1001 is closing file descriptor: 8 
+[ 1018.139432] User 1001 is opening file: /etc/security/pam_env.conf 
+[ 1018.139468] User 1001 is closing file descriptor: 8 
+[ 1018.139482] User 1001 is opening file: /etc/default/locale 
+[ 1018.139511] User 1001 is closing file descriptor: 8 
+[ 1018.139560] User 1001 is opening file: /etc/security/capability.conf 
+[ 1018.139632] User 1001 is closing file descriptor: 8 
+[ 1018.139683] User 1001 is opening file: /etc/login.defs 
+[ 1018.139747] User 1001 is closing file descriptor: 8 
+[ 1018.139762] User 1001 is opening file: /etc/login.defs 
+[ 1018.139831] User 1001 is closing file descriptor: 8 
+[ 1018.139854] User 1001 is opening file: /etc/passwd 
+[ 1018.139882] User 1001 is closing file descriptor: 8 
+[ 1018.139944] User 1001 is opening file: /var/run/utmp 
+[ 1018.140035] User 1001 is closing file descriptor: 8 
+[ 1018.142993] User 1001 is closing file descriptor: 4 
+[ 1018.143387] User 1001 is closing file descriptor: 3 
+[ 1018.143391] User 1001 is closing file descriptor: 5 
+[ 1018.143393] User 1001 is closing file descriptor: 7 
+[ 1018.143529] User 1001 is opening file: /etc/passwd 
+[ 1018.143736] User 1001 is closing file descriptor: 3 
+[ 1018.146770] Unloaded interceptor!

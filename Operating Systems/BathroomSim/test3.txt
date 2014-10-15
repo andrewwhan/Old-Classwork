@@ -1,0 +1,605 @@
+Thread number: 2446723904 
+Gender: Female 
+Number of loops: 0 
+Minimum time spent in queue: 0 
+Average time spent in queue: 0 
+Maximum time spent in queue: 0 
+Thread number: 2639756096 
+Gender: Female 
+Number of loops: 3 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 1 
+Thread number: 2782432064 
+Gender: Female 
+Number of loops: 21 
+Minimum time spent in queue: 0 
+Average time spent in queue: 0 
+Maximum time spent in queue: 4 
+Thread number: 3009035072 
+Gender: Female 
+Number of loops: 50 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 13 
+Thread number: 2698505024 
+Gender: Female 
+Number of loops: 38 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 1 
+Thread number: 2497080128 
+Gender: Female 
+Number of loops: 10 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 1 
+Thread number: 3042605888 
+Gender: Female 
+Number of loops: 16 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 1 
+Thread number: 2505472832 
+Gender: Female 
+Number of loops: 27 
+Minimum time spent in queue: 0 
+Average time spent in queue: 0 
+Maximum time spent in queue: 1 
+Thread number: 2732075840 
+Gender: Female 
+Number of loops: 66 
+Minimum time spent in queue: 0 
+Average time spent in queue: 0 
+Maximum time spent in queue: 1 
+Thread number: 2841180992 
+Gender: Female 
+Number of loops: 7 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 1 
+Thread number: 2958678848 
+Gender: Female 
+Number of loops: 7 
+Minimum time spent in queue: 0 
+Average time spent in queue: 0 
+Maximum time spent in queue: 3 
+Thread number: 2849573696 
+Gender: Female 
+Number of loops: 113 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 2 
+Thread number: 2891537216 
+Gender: Female 
+Number of loops: 99 
+Minimum time spent in queue: 0 
+Average time spent in queue: 0 
+Maximum time spent in queue: 5 
+Thread number: 2354404160 
+Gender: Female 
+Number of loops: 33 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 1 
+Thread number: 3050998592 
+Gender: Female 
+Number of loops: 145 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 46 
+Thread number: 2421545792 
+Gender: Female 
+Number of loops: 43 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 1 
+Thread number: 2346011456 
+Gender: Female 
+Number of loops: 136 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 1 
+Thread number: 2774039360 
+Gender: Female 
+Number of loops: 185 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 4 
+Thread number: 2581007168 
+Gender: Female 
+Number of loops: 52 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 4 
+Thread number: 2530650944 
+Gender: Female 
+Number of loops: 31 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 6 
+Thread number: 2967071552 
+Gender: Female 
+Number of loops: 200 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 3 
+Thread number: 2329226048 
+Gender: Female 
+Number of loops: 13 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 1 
+Thread number: 2463509312 
+Gender: Female 
+Number of loops: 130 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 3 
+Thread number: 2983856960 
+Gender: Female 
+Number of loops: 24 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 5 
+Thread number: 2740468544 
+Gender: Female 
+Number of loops: 412 
+Minimum time spent in queue: 0 
+Average time spent in queue: 0 
+Maximum time spent in queue: 120 
+Thread number: 2245299008 
+Gender: Female 
+Number of loops: 39 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 3 
+Thread number: 2723683136 
+Gender: Female 
+Number of loops: 57 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 4 
+Thread number: 2564221760 
+Gender: Female 
+Number of loops: 80 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 6 
+Thread number: 2614577984 
+Gender: Female 
+Number of loops: 133 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 3 
+Thread number: 3034213184 
+Gender: Female 
+Number of loops: 83 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 6 
+Thread number: 3076176704 
+Gender: Female 
+Number of loops: 99 
+Minimum time spent in queue: 3 
+Average time spent in queue: 0 
+Maximum time spent in queue: 6 
+Thread number: 3059391296 
+Gender: Female 
+Number of loops: 123 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 6 
+Thread number: 2790824768 
+Gender: Female 
+Number of loops: 80 
+Minimum time spent in queue: 0 
+Average time spent in queue: 0 
+Maximum time spent in queue: 67 
+Thread number: 2480294720 
+Gender: Female 
+Number of loops: 101 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 5 
+Thread number: 2547436352 
+Gender: Female 
+Number of loops: 268 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 7 
+Thread number: 2757253952 
+Gender: Female 
+Number of loops: 61 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 20 
+Thread number: 2656541504 
+Gender: Female 
+Number of loops: 181 
+Minimum time spent in queue: 2 
+Average time spent in queue: 0 
+Maximum time spent in queue: 10 
+Thread number: 2824395584 
+Gender: Female 
+Number of loops: 218 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 42 
+Thread number: 2673326912 
+Gender: Female 
+Number of loops: 77 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 6 
+Thread number: 2513865536 
+Gender: Female 
+Number of loops: 211 
+Minimum time spent in queue: 0 
+Average time spent in queue: 0 
+Maximum time spent in queue: 6 
+Thread number: 2572614464 
+Gender: Female 
+Number of loops: 230 
+Minimum time spent in queue: 0 
+Average time spent in queue: 0 
+Maximum time spent in queue: 6 
+Thread number: 2404760384 
+Gender: Female 
+Number of loops: 144 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 37 
+Thread number: 2883144512 
+Gender: Female 
+Number of loops: 272 
+Minimum time spent in queue: 2 
+Average time spent in queue: 0 
+Maximum time spent in queue: 9 
+Thread number: 3000642368 
+Gender: Female 
+Number of loops: 360 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 17 
+Thread number: 2908322624 
+Gender: Female 
+Number of loops: 156 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 6 
+Thread number: 2832788288 
+Gender: Female 
+Number of loops: 153 
+Minimum time spent in queue: 1 
+Average time spent in queue: 0 
+Maximum time spent in queue: 144 
+Thread number: 2387974976 
+Gender: Male 
+Number of loops: 3 
+Minimum time spent in queue: 1 
+Average time spent in queue: 230814 
+Maximum time spent in queue: 692442 
+Thread number: 2270477120 
+Gender: Male 
+Number of loops: 43 
+Minimum time spent in queue: 1 
+Average time spent in queue: 16122 
+Maximum time spent in queue: 693601 
+Thread number: 2816002880 
+Gender: Male 
+Number of loops: 58 
+Minimum time spent in queue: 0 
+Average time spent in queue: 11971 
+Maximum time spent in queue: 695143 
+Thread number: 2933500736 
+Gender: Male 
+Number of loops: 96 
+Minimum time spent in queue: 0 
+Average time spent in queue: 7225 
+Maximum time spent in queue: 695768 
+Thread number: 2807610176 
+Gender: Male 
+Number of loops: 25 
+Minimum time spent in queue: 1 
+Average time spent in queue: 27800 
+Maximum time spent in queue: 695155 
+Thread number: 2899929920 
+Gender: Male 
+Number of loops: 19 
+Minimum time spent in queue: 2 
+Average time spent in queue: 36616 
+Maximum time spent in queue: 695763 
+Thread number: 2857966400 
+Gender: Male 
+Number of loops: 158 
+Minimum time spent in queue: 1 
+Average time spent in queue: 4363 
+Maximum time spent in queue: 695108 
+Thread number: 2312440640 
+Gender: Male 
+Number of loops: 189 
+Minimum time spent in queue: 1 
+Average time spent in queue: 3621 
+Maximum time spent in queue: 693491 
+Thread number: 2304047936 
+Gender: Male 
+Number of loops: 42 
+Minimum time spent in queue: 0 
+Average time spent in queue: 16475 
+Maximum time spent in queue: 692299 
+Thread number: 2925108032 
+Gender: Male 
+Number of loops: 47 
+Minimum time spent in queue: 0 
+Average time spent in queue: 14794 
+Maximum time spent in queue: 695786 
+Thread number: 2975464256 
+Gender: Male 
+Number of loops: 127 
+Minimum time spent in queue: 1 
+Average time spent in queue: 5451 
+Maximum time spent in queue: 695765 
+Thread number: 3017427776 
+Gender: Male 
+Number of loops: 32 
+Minimum time spent in queue: 1 
+Average time spent in queue: 21736 
+Maximum time spent in queue: 695765 
+Thread number: 2362796864 
+Gender: Male 
+Number of loops: 16 
+Minimum time spent in queue: 1 
+Average time spent in queue: 43345 
+Maximum time spent in queue: 693572 
+Thread number: 2471902016 
+Gender: Male 
+Number of loops: 47 
+Minimum time spent in queue: 1 
+Average time spent in queue: 14721 
+Maximum time spent in queue: 692424 
+Thread number: 2589399872 
+Gender: Male 
+Number of loops: 34 
+Minimum time spent in queue: 1 
+Average time spent in queue: 20371 
+Maximum time spent in queue: 692885 
+Thread number: 2874751808 
+Gender: Male 
+Number of loops: 23 
+Minimum time spent in queue: 2 
+Average time spent in queue: 30249 
+Maximum time spent in queue: 695799 
+Thread number: 2706897728 
+Gender: Male 
+Number of loops: 101 
+Minimum time spent in queue: 1 
+Average time spent in queue: 6833 
+Maximum time spent in queue: 692883 
+Thread number: 2278869824 
+Gender: Male 
+Number of loops: 81 
+Minimum time spent in queue: 0 
+Average time spent in queue: 8524 
+Maximum time spent in queue: 692072 
+Thread number: 2950286144 
+Gender: Male 
+Number of loops: 28 
+Minimum time spent in queue: 1 
+Average time spent in queue: 24845 
+Maximum time spent in queue: 695779 
+Thread number: 2438331200 
+Gender: Male 
+Number of loops: 56 
+Minimum time spent in queue: 1 
+Average time spent in queue: 12353 
+Maximum time spent in queue: 692426 
+Thread number: 2539043648 
+Gender: Male 
+Number of loops: 125 
+Minimum time spent in queue: 1 
+Average time spent in queue: 5506 
+Maximum time spent in queue: 692426 
+Thread number: 2648148800 
+Gender: Male 
+Number of loops: 58 
+Minimum time spent in queue: 1 
+Average time spent in queue: 11933 
+Maximum time spent in queue: 692874 
+Thread number: 2429938496 
+Gender: Male 
+Number of loops: 273 
+Minimum time spent in queue: 1 
+Average time spent in queue: 2467 
+Maximum time spent in queue: 692433 
+Thread number: 2664934208 
+Gender: Male 
+Number of loops: 90 
+Minimum time spent in queue: 1 
+Average time spent in queue: 7674 
+Maximum time spent in queue: 692881 
+Thread number: 2379582272 
+Gender: Male 
+Number of loops: 115 
+Minimum time spent in queue: 0 
+Average time spent in queue: 5991 
+Maximum time spent in queue: 692449 
+Thread number: 2555829056 
+Gender: Male 
+Number of loops: 75 
+Minimum time spent in queue: 1 
+Average time spent in queue: 9214 
+Maximum time spent in queue: 692416 
+Thread number: 2413153088 
+Gender: Male 
+Number of loops: 76 
+Minimum time spent in queue: 1 
+Average time spent in queue: 9092 
+Maximum time spent in queue: 692436 
+Thread number: 2622970688 
+Gender: Male 
+Number of loops: 153 
+Minimum time spent in queue: 1 
+Average time spent in queue: 4490 
+Maximum time spent in queue: 692866 
+Thread number: 2690112320 
+Gender: Male 
+Number of loops: 191 
+Minimum time spent in queue: 1 
+Average time spent in queue: 3580 
+Maximum time spent in queue: 692845 
+Thread number: 2866359104 
+Gender: Male 
+Number of loops: 76 
+Minimum time spent in queue: 1 
+Average time spent in queue: 9137 
+Maximum time spent in queue: 695806 
+Thread number: 2295655232 
+Gender: Male 
+Number of loops: 67 
+Minimum time spent in queue: 1 
+Average time spent in queue: 10314 
+Maximum time spent in queue: 692071 
+Thread number: 2606185280 
+Gender: Male 
+Number of loops: 109 
+Minimum time spent in queue: 0 
+Average time spent in queue: 6329 
+Maximum time spent in queue: 692849 
+Thread number: 2396367680 
+Gender: Male 
+Number of loops: 136 
+Minimum time spent in queue: 2 
+Average time spent in queue: 5056 
+Maximum time spent in queue: 692435 
+Thread number: 2337618752 
+Gender: Male 
+Number of loops: 101 
+Minimum time spent in queue: 0 
+Average time spent in queue: 6826 
+Maximum time spent in queue: 692069 
+Thread number: 2522258240 
+Gender: Male 
+Number of loops: 98 
+Minimum time spent in queue: 0 
+Average time spent in queue: 7039 
+Maximum time spent in queue: 692419 
+Thread number: 2262084416 
+Gender: Male 
+Number of loops: 178 
+Minimum time spent in queue: 1 
+Average time spent in queue: 3853 
+Maximum time spent in queue: 693589 
+Thread number: 2455116608 
+Gender: Male 
+Number of loops: 176 
+Minimum time spent in queue: 1 
+Average time spent in queue: 3889 
+Maximum time spent in queue: 692419 
+Thread number: 2320833344 
+Gender: Male 
+Number of loops: 157 
+Minimum time spent in queue: 1 
+Average time spent in queue: 4370 
+Maximum time spent in queue: 692314 
+Thread number: 2748861248 
+Gender: Male 
+Number of loops: 126 
+Minimum time spent in queue: 1 
+Average time spent in queue: 5491 
+Maximum time spent in queue: 695147 
+Thread number: 2597792576 
+Gender: Male 
+Number of loops: 155 
+Minimum time spent in queue: 1 
+Average time spent in queue: 4433 
+Maximum time spent in queue: 692858 
+Thread number: 2765646656 
+Gender: Male 
+Number of loops: 158 
+Minimum time spent in queue: 1 
+Average time spent in queue: 4364 
+Maximum time spent in queue: 695152 
+Thread number: 2631363392 
+Gender: Male 
+Number of loops: 225 
+Minimum time spent in queue: 1 
+Average time spent in queue: 3026 
+Maximum time spent in queue: 692856 
+Thread number: 2992249664 
+Gender: Male 
+Number of loops: 114 
+Minimum time spent in queue: 0 
+Average time spent in queue: 6080 
+Maximum time spent in queue: 695769 
+Thread number: 3067784000 
+Gender: Male 
+Number of loops: 141 
+Minimum time spent in queue: 1 
+Average time spent in queue: 4904 
+Maximum time spent in queue: 695792 
+Thread number: 2916715328 
+Gender: Male 
+Number of loops: 153 
+Minimum time spent in queue: 1 
+Average time spent in queue: 4512 
+Maximum time spent in queue: 695791 
+Thread number: 2253691712 
+Gender: Male 
+Number of loops: 135 
+Minimum time spent in queue: 2 
+Average time spent in queue: 5094 
+Maximum time spent in queue: 692307 
+Thread number: 2941893440 
+Gender: Male 
+Number of loops: 310 
+Minimum time spent in queue: 1 
+Average time spent in queue: 2168 
+Maximum time spent in queue: 695792 
+Thread number: 2799217472 
+Gender: Male 
+Number of loops: 144 
+Minimum time spent in queue: 1 
+Average time spent in queue: 4797 
+Maximum time spent in queue: 695162 
+Thread number: 2488687424 
+Gender: Male 
+Number of loops: 283 
+Minimum time spent in queue: 1 
+Average time spent in queue: 2377 
+Maximum time spent in queue: 692412 
+Thread number: 2371189568 
+Gender: Male 
+Number of loops: 239 
+Minimum time spent in queue: 1 
+Average time spent in queue: 2839 
+Maximum time spent in queue: 692457 
+Thread number: 3025820480 
+Gender: Male 
+Number of loops: 234 
+Minimum time spent in queue: 1 
+Average time spent in queue: 2927 
+Maximum time spent in queue: 697791 
+Thread number: 2715290432 
+Gender: Female 
+Number of loops: 194 
+Minimum time spent in queue: 1 
+Average time spent in queue: 4289 
+Maximum time spent in queue: 423927 
+Thread number: 2287262528 
+Gender: Female 
+Number of loops: 367 
+Minimum time spent in queue: 12 
+Average time spent in queue: 7635 
+Maximum time spent in queue: 424467 
+Thread number: 2681719616 
+Gender: Male 
+Number of loops: 243 
+Minimum time spent in queue: 1 
+Average time spent in queue: 14618 
+Maximum time spent in queue: 692844 
+Bathroom usage: 11687 
+Total time bathroom was vacant: 16938 
+Total time bathroom was occupied: 15019758 
+Average time spent in queue: 4262 
+Average occupants in bathroom: 0 

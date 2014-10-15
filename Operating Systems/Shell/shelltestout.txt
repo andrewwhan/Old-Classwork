@@ -1,0 +1,53 @@
+Andrew Han
+
+(^_^)ls
+
+doit	      doittest.txt~  shell     shell.c		  shelltest.txt
+doit.c	      hi	     shell2    shelltestout.txt   shelltest.txt~
+doittest.txt  Makefile	     shell2.c  shelltestout.txt~  test.txt~
+Time elapsed: 6 
+CPU User Time: 0 
+CPU System Time: 0 
+Involuntary Preemptions: 18 
+Voluntary Preemptions: 1 
+Page faults: 0 
+Page faults resolved from internal caches: 269 
+(^_^)cd hi
+
+(^_^)ls
+
+a  a_backup  b	c
+Time elapsed: 8 
+CPU User Time: 4 
+CPU System Time: 0 
+Involuntary Preemptions: 7 
+Voluntary Preemptions: 1 
+Page faults: 0 
+Page faults resolved from internal caches: 267 
+(^_^)cp a a_backup
+
+Time elapsed: 6 
+CPU User Time: 0 
+CPU System Time: 4 
+Involuntary Preemptions: 1 
+Voluntary Preemptions: 1 
+Page faults: 0 
+Page faults resolved from internal caches: 270 
+(^_^)ls
+
+a  a_backup  b	c
+Time elapsed: 13 
+CPU User Time: 0 
+CPU System Time: 0 
+Involuntary Preemptions: 5 
+Voluntary Preemptions: 1 
+Page faults: 0 
+Page faults resolved from internal caches: 269 
+(^_^)cd ..
+
+(^_^)Please limit lines to 128 characters. 
+(^_^)b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b 
+
+Please limit input to 32 arguments. 
+(^_^)exit
+
